@@ -1,9 +1,12 @@
 ---
 title: "welcome"
 description: |
-  A short description of the post.
+  Welcome to the R-Govys Blog.
 author:
-  - name: Eli Holmes
+  - name: E. Eli Holmes
+    url: https://eeholmes.github.io
+    affiliation: NOAA Fisheries
+    affiliation_url: https://www.fisheries.noaa.gov/about/northwest-fisheries-science-center
 date: 09-15-2021
 output:
   distill::distill_article:
@@ -15,8 +18,10 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Distill is a publication format for scientific and technical writing, native to the web.
+The R-Govys blog is a place for R-Govys users to post write-ups on topics of interest to the group. Suggestions:
 
-Learn more about using Distill at <https://rstudio.github.io/distill>.
-
+* Example of using R in your work
+* Example of a new R feature or package
+* Discussion of changes in how R is used in government
+* Write-up of a meeting review or summary
 

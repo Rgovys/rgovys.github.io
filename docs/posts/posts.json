@@ -1,1 +1,36 @@
-[]
+[
+  {
+    "path": "posts/2021-09-15-test/",
+    "title": "test",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Eli Holmes",
+        "url": "https://eeholmes.github.io"
+      }
+    ],
+    "date": "2021-09-15",
+    "categories": [],
+    "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill at https://rstudio.github.io/distill.\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-09-15T13:04:47-07:00",
+    "input_file": "test.knit.md"
+  },
+  {
+    "path": "posts/2021-09-15-welcome/",
+    "title": "welcome",
+    "description": "Welcome to the R-Govys Blog.",
+    "author": [
+      {
+        "name": "E. Eli Holmes",
+        "url": "https://eeholmes.github.io"
+      }
+    ],
+    "date": "2021-09-15",
+    "categories": [],
+    "contents": "\nThe R-Govys blog is a place for R-Govys users to post write-ups on topics of interest to the group. Suggestions:\nExample of using R in your work\nExample of a new R feature or package\nDiscussion of changes in how R is used in government\nWrite-up of a meeting review or summary\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-09-15T13:06:37-07:00",
+    "input_file": "welcome.knit.md"
+  }
+]
