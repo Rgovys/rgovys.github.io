@@ -5,8 +5,10 @@ description: |
 favicon: favicon.ico
 output_dir: "docs"
 navbar:
-  logo: images/Rgovys-logo.png
-  href: https://rgovys.org
+  logo: 
+    image: images/Rgovys-logo.png
+    href: https://rgovys.org
+  search: false
   right:
     - text: "Home"
       href: index.html
@@ -24,7 +26,6 @@ navbar:
       href: https://github.com/Rgovys
     - icon: fa fa-rss
       href: index.xml
-
 theme: theme.css
 output:
   distill::distill_article:
