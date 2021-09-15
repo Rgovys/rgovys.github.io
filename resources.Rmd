@@ -1,0 +1,30 @@
+---
+title: "Resources"
+description: |
+  Links to resources of interest to R-Govys members 
+output:
+  distill::distill_article:
+    self_contained: false
+    toc: true
+    toc_depth: 3
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+
+## Training
+
+** [R Consortium YouTube Channel](https://www.youtube.com/channel/UC_R5smHVXRYGhZYDJsnXTwg) many lectures on R topics.
+
+## Companion Efforts in Government
+
+**[NASA Openscapes](https://nasa-openscapes.github.io)** is a 3-year project to support scientists using data from NASA’s Earth Observing System Data and Information System (EOSDIS) Distributed Active Archive Centers (DAACs) as they migrate workflows to the cloud. As part of this work, we will offer the Openscapes Champions program several times from 2022-2024.
+
+
+
+<center>
+    <img src="images/Rgovys-logo.png" width="300px">
+</center>

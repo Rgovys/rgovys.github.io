@@ -1,0 +1,23 @@
+---
+title: "Events"
+description: |
+  Events and News
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+## Upcoming  
+
+**November 2021. Inter-Agency R Users bi-monthly meeting (Virtual)** \
+Description <br>
+
+**September 21, 2021. Conference? (Virtual)** \
+Description <br>
+
+## Past
+
+**September 13, 2021. Inter-Agency R Users bi-monthly meeting (Virtual)** \
+Description and link to info.

@@ -1,0 +1,30 @@
+name: "."
+title: "R-Govys"
+description: |
+  R-Govys
+favicon: favicon.ico
+output_dir: "docs"
+navbar:
+  logo: images/Rgovys-logo.png
+  href: https://rgovys.org
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Members"
+      href: members.html
+    - text: "Events"
+      href: events.html
+    - text: "Resources"
+      href: resources.html      
+    - text: "Sponsors"
+      href: sponsors.html      
+    - icon: fab fa-github
+      href: https://github.com/Rgovys
+theme: theme.css
+output:
+  distill::distill_article:
+    includes:
+      in_header:
+      - _header.html

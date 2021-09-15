@@ -1,0 +1,18 @@
+---
+title: "About"
+description: |
+  R-Govys is a R consortium organization to support R users in government
+output:
+  distill::distill_article:
+    self_contained: false
+    toc: true
+    toc_depth: 3
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Description
+
+

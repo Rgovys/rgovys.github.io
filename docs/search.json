@@ -1,0 +1,51 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About",
+      "description": "R-Govys is a R consortium organization to support R users in government\n",
+      "author": [],
+      "contents": "\nDescription\n\n\n\n",
+      "last_modified": "2021-09-13T20:31:10-07:00"
+    },
+    {
+      "path": "events.html",
+      "title": "Events",
+      "description": "Events and News",
+      "author": [],
+      "contents": "\nUpcoming\nNovember 2021. Inter-Agency R Users bi-monthly meeting (Virtual)\nDescription \nSeptember 21, 2021. Conference? (Virtual)\nDescription \nPast\nSeptember 13, 2021. Inter-Agency R Users bi-monthly meeting (Virtual)\nDescription and link to info.\n\n\n\n",
+      "last_modified": "2021-09-13T20:31:10-07:00"
+    },
+    {
+      "path": "index.html",
+      "title": "R-Govys",
+      "author": [],
+      "contents": "\n\n          \n          \n          \n          \n          R-Govys\n          \n          \n          Home\n          About\n          Members\n          Events\n          Resources\n          Sponsors\n          \n          \n          \n          ☰\n          \n          \n      \n        \n          \n            R-Govys\n          \n          \n            \n              Description\n              Recent News:\n            \n            \n              Description\n              Recent News:\n            \n          \n\n          \n            \n              \n                  \n                    \n                      About\n                    \n                  \n                \n                                \n                  \n                    \n                      Members\n                    \n                  \n                \n                                \n                  \n                    \n                      Resources\n                    \n                  \n                \n                                \n                  \n                    \n                      Events\n                    \n                  \n                \n                              \n          \n\n          \n            \n              \n                                \n                  \n                    About\n                  \n                \n                                \n                  \n                    Members\n                  \n                \n                                \n                  \n                    Resources\n                  \n                \n                                \n                  \n                    Events\n                  \n                \n                              \n            \n          \n        \n      \n    \n\n    \n    \n    \n          This website was made with distill by RStudio, and with inspiration from the NASA Openscapes website. \n          \n          \n\n    \n  ",
+      "last_modified": "2021-09-13T20:31:11-07:00"
+    },
+    {
+      "path": "members.html",
+      "title": "Members",
+      "description": "An R consortium community to support R users in government\n",
+      "author": [],
+      "contents": "\n\nContents\nContact\nMembers\n\nContact\nPlease contact ….. to join the R-Govys mailing list.\nMembers\nWendy Martinez\nE. Eli Holmes is a research scientist with NOAA Fisheries. She is an applied mathematician who works on algorithms for multivariate state-space analysis of time series data. She is active in R and open-science training in NOAA Fisheries. Webpage GitHub\nDonna LaLonde\nAdd more\n\n\n\n",
+      "last_modified": "2021-09-13T20:31:11-07:00"
+    },
+    {
+      "path": "resources.html",
+      "title": "Resources",
+      "description": "Links to resources of interest to R-Govys members \n",
+      "author": [],
+      "contents": "\n\nContents\nTraining\nCompanion Efforts in Government\n\nTraining\n** R Consortium YouTube Channel many lectures on R topics.\nCompanion Efforts in Government\nNASA Openscapes is a 3-year project to support scientists using data from NASA’s Earth Observing System Data and Information System (EOSDIS) Distributed Active Archive Centers (DAACs) as they migrate workflows to the cloud. As part of this work, we will offer the Openscapes Champions program several times from 2022-2024.\n\n\n\n\n\n",
+      "last_modified": "2021-09-13T20:31:11-07:00"
+    },
+    {
+      "path": "sponsors.html",
+      "title": "Sponsors",
+      "author": [],
+      "contents": "\n\n\n\n\n",
+      "last_modified": "2021-09-13T20:31:12-07:00"
+    }
+  ],
+  "collections": []
+}
