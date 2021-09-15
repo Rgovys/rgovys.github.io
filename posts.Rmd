@@ -1,5 +1,5 @@
 ---
-title: "NEWS"
+title: "Blog"
 site: distill::distill_website
-listing: news
+listing: posts
 ---

@@ -22,7 +22,7 @@ R-Govys is an [R consortium](https://www.r-consortium.org/) organization to supp
 
 ## News
 
-<script language="JavaScript" src="https://www.feedroll.com/rssviewer/feed2js.php?src=https%3A%2F%2Frgovys.github.io%2Fmeetings.xml&desc=1&utf=y"  charset="UTF-8" type="text/javascript"></script>
+<script language="JavaScript" src="https://www.feedroll.com/rssviewer/feed2js.php?src=https%3A%2F%2Frgovys.github.io%2Fnews.xml&desc=1&utf=y"  charset="UTF-8" type="text/javascript"></script>
 
 
 
