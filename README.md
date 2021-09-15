@@ -6,4 +6,4 @@ Landing page for Rgovys.
 
 * Edit the Rmd files at the base level.
 * Add images to `images`
-* Add docs to link to in `docs`
+* Add documents or pdfs etc to link to in `content`

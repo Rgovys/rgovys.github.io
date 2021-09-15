@@ -5,17 +5,21 @@ image: "images/Rgovys-logo.png"
 links:
   - label: About
     url: "about.html"
-  - label: Members
-    url: "members.html"
-  - label: Resources
-    url: "resources.html"
-  - label: Events
-    url: "events.html"    
+  - label: Code of Conduct
+    url: "CoC.html"
+  - label: GitHub
+    url: "https://github.com/Rgovys"  
 output:
-  postcards::jolla
+  postcards::trestles
 site: distill::distill_website
+collections:
+  posts: 
+    categories: true
+    feed_items_max: 10
+  meetings:
+    categories: true
+    feed_items_max: 10
 ---
 
-Description
 
-**Recent News:**
+
