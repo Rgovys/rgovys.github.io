@@ -4,6 +4,7 @@ description: |
   R-Govys
 favicon: favicon.ico
 output_dir: "docs"
+base_url: https://rgovys.github.io
 navbar:
   logo: 
     image: images/Rgovys-logo.png
@@ -24,8 +25,6 @@ navbar:
       href: resources.html      
     - icon: fab fa-github
       href: https://github.com/Rgovys
-    - icon: fa fa-rss
-      href: index.xml
 theme: theme.css
 output:
   distill::distill_article:
