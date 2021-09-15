@@ -17,11 +17,20 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Training
 
-** [R Consortium YouTube Channel](https://www.youtube.com/channel/UC_R5smHVXRYGhZYDJsnXTwg) many lectures on R topics.
+[R Consortium YouTube Channel](https://www.youtube.com/channel/UC_R5smHVXRYGhZYDJsnXTwg) many lectures on R topics.
+
+[2021 RWorkflow Workshops](https://rverse-tutorials.github.io/RWorkflow-NWFSC-2021/) Workshops on GitHub and R packages geared towards NOAA scientists, although applicable to scientists in general. All material online: recorded lectures and lecture notes.
+
+[2020 R Workshop for Social Scientists](https://emilymarkowitz-noaa.github.io/RWorkshopForSocialScientists/) workshop by NOAA Fisheries social scientists. Focus on data analysis and advanced topics.
+
 
 ## Companion Efforts in Government
 
+**GitHub in the US federal agencies** GitHub is widely used by US federal agencies and scientists to deliver products and collaborate. This [wiki](https://github.com/Openscapes/2021-noaa-nmfs/wiki/1-GitHub-in-gov) links to some of those efforts.
+
 **[NASA Openscapes](https://nasa-openscapes.github.io)** is a 3-year project to support scientists using data from NASA’s Earth Observing System Data and Information System (EOSDIS) Distributed Active Archive Centers (DAACs) as they migrate workflows to the cloud. As part of this work, we will offer the Openscapes Champions program several times from 2022-2024.
+
+**[NMFS Openscapes](https://openscapes.github.io/2021-noaa-nmfs/)** is an Openscapes cohort to support NOAA Fisheries scientists to improve scientific workflow and efficiency using open science tools and R. This is the 2nd [Openscapes](https://www.openscapes.org/) NMFS cohort.
 
 
 

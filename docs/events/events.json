@@ -1,0 +1,42 @@
+[
+  {
+    "path": "events/2021-09-15-ia-rusers/",
+    "title": "Inter-Agency R Users bi-monthly meeting",
+    "description": "Video information is sent out via the email list.",
+    "author": [
+      {
+        "name": "Wendy Martinez",
+        "url": {}
+      }
+    ],
+    "date": "2021-09-15",
+    "categories": [
+      "inter-agegeny r-users",
+      "meeting"
+    ],
+    "contents": "\nNovember 2021. Inter-Agency R Users bi-monthly meeting (Virtual)\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-09-15T11:27:22-07:00",
+    "input_file": {}
+  },
+  {
+    "path": "events/2021-09-12-ia-rusers/",
+    "title": "Inter-Agency R Users bi-monthly meeting",
+    "description": "The meeting will be held Sept 13 at 1pm EST. Video information is sent out via the email list.",
+    "author": [
+      {
+        "name": "Wendy Martinez",
+        "url": {}
+      }
+    ],
+    "date": "2021-08-12",
+    "categories": [
+      "inter-agegeny r-users",
+      "meeting"
+    ],
+    "contents": "\nSeptember 2021. Inter-Agency R Users bi-monthly meeting (Virtual)\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-09-15T11:27:08-07:00",
+    "input_file": {}
+  }
+]

@@ -13,14 +13,14 @@ navbar:
   right:
     - text: "Home"
       href: index.html
-    - text: "About"
-      href: about.html
     - text: "Members"
       href: members.html
     - text: "Events"
       href: events.html
     - text: "Meetings"
       href: meetings.html      
+    - text: "Blog"
+      href: posts.html
     - text: "Resources"
       href: resources.html      
     - icon: fab fa-github
@@ -34,5 +34,10 @@ output:
 collections:
   posts: 
     categories: true
+    share: [twitter, linkedin]
   meetings:
     categories: true
+    citations: false
+  events:
+    categories: true
+    citations: false
