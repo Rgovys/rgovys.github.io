@@ -17,8 +17,8 @@ navbar:
       href: members.html
     - text: "Events"
       href: events.html
-    - text: "Meetings"
-      href: meetings.html      
+    - text: "News"
+      href: news.html      
     - text: "Blog"
       href: posts.html
     - text: "Resources"

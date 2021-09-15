@@ -14,8 +14,8 @@ Landing page for Rgovys.
   - Copy `template` folder and give a name
   - Rename `template.Rmd` to something else
   - After you have edited the Rmd file, click `knit` in RStudio.
-* Adding meetings
-  - Open `_meetings` folder
+* Adding news (and stuff like meeting notes)
+  - Open `_news` folder
   - Copy `template` folder and give a name
   - Rename `template.Rmd` to something else
   - After you have edited the Rmd file, click `knit` in RStudio.
