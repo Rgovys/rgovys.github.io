@@ -1,0 +1,43 @@
+---
+title: "Title"
+description: |
+  Short description
+author:
+  - name: Your name
+date: 07-21-2021
+output:
+  distill::distill_article:
+    self_contained: false
+categories:
+  - cat 1
+  - meeting
+---
+
+## Agenda
+
+7/12/2021
+
+1.  Item
+
+    Paragraph 1
+
+    Paragraph 2
+    
+2.  Item 2
+
+    -   Bullet 1
+    -   Bullet 2
+
+3.  Item 3
+
+    Paragraph 1
+
+4.  Agency updates
+
+    -   A:
+
+    -   B:
+
+## Meeting notes
+
+Notes from the meeting here.

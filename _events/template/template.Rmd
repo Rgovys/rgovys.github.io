@@ -1,0 +1,42 @@
+---
+title: "Add a title"
+description: |
+  Add a description
+author:
+  - name: Your name
+date: 09-15-2021
+output:
+  distill::distill_article:
+    self_contained: false
+categories:
+  - cat 1
+  - cat 2
+  - see list below
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Add a heading here
+
+<!--
+
+You don't need this stuff. Delete.
+
+You can add a description under the heading if you need more info. But you can also leave this part blank if you only need a short description. Just add the description at the top.
+
+Categories: Add so that users can easily navigate. Here are the ones we have
+
+  - inter-agency r-users
+  - meeting
+  - conference
+  - training
+  - presentation
+  
+-->
+
+
+
+
