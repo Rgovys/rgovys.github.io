@@ -12,13 +12,6 @@ links:
 output:
   postcards::trestles
 site: distill::distill_website
-collections:
-  posts: 
-    categories: true
-    feed_items_max: 10
-  meetings:
-    categories: true
-    feed_items_max: 10
 ---
 
 

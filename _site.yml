@@ -32,3 +32,8 @@ output:
     includes:
       in_header:
       - _header.html
+collections:
+  posts: 
+    categories: true
+  meetings:
+    categories: true
