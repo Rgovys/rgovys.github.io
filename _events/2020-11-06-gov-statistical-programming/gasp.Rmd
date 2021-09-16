@@ -1,0 +1,43 @@
+---
+title: "Government Advances in Statistical Programming workshop"
+description: |
+   Nov 6, 2020 A workshop focused on statistical programming for government applications across government and the private sector.
+author:
+  - name: Nathan
+date: 11-06-2020
+output:
+  distill::distill_article:
+    self_contained: false
+categories:
+  - workshop
+  - statistics
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+https://sites.google.com/view/gasp2020 A workshop focused on statistical programming for government applications across government and the private sector.  Themes will include R and Python applications, data science, big data and official statistics, open source software, statistical computing software, and more.  
+
+October 15 abstracts are due. 
+
+<!--
+
+You don't need this stuff. Delete.
+
+You can add a description under the heading if you need more info. But you can also leave this part blank if you only need a short description. Just add the description at the top.
+
+Categories: Add so that users can easily navigate. Here are the ones we have
+
+  - inter-agency r-users
+  - meeting
+  - conference
+  - training
+  - presentation
+  
+-->
+
+
+
+

@@ -14,7 +14,7 @@ output:
 site: distill::distill_website
 ---
 
-R-Govys is an [R consortium](https://www.r-consortium.org/) organization to support R users in government. See the links to resources and individual R-User groups within government. This organization was established in Sept 2021 as a project of the Inter-Agency R-Users Group.
+R-Govys is an [R consortium](https://www.r-consortium.org/) working group to support R users in government. See the links to resources and individual R-User groups within government. This organization was established in Sept 2021 as a project of the Inter-Agency R-Users Group.
 
 ## Events
 

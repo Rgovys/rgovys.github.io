@@ -38,5 +38,88 @@
     "preview": {},
     "last_modified": "2021-09-15T12:19:43-07:00",
     "input_file": {}
+  },
+  {
+    "path": "events/2021-06-01-rworkflow/",
+    "title": "R Workflow for Scientists",
+    "description": "1-hour workshops on Fridays in June and July 2021. Workshops on GitHub and R packages geared towards federal scientists.",
+    "author": [
+      {
+        "name": "Eli Holmes",
+        "url": "https://eeholmes.github.io"
+      }
+    ],
+    "date": "2021-06-01",
+    "categories": [
+      "workshop",
+      "github",
+      "R packages"
+    ],
+    "contents": "\nWebsite 1-hour workshops on Fridays in June and July 2021. Workshops on GitHub and R packages geared towards NOAA scientists and common work tasks, however material is applicable to scientists in general. The live WebEx sessions are restricted to NOAA staff (or anyone with .noaa email) due to WebEx limitations. However all material is public and online, including the recorded live sessions.\n\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-09-16T11:03:06-07:00",
+    "input_file": {}
+  },
+  {
+    "path": "events/2020-11-06-gov-statistical-programming/",
+    "title": "Government Advances in Statistical Programming workshop",
+    "description": "Nov 6, 2020 A workshop focused on statistical programming for government applications across government and the private sector.",
+    "author": [
+      {
+        "name": "Nathan",
+        "url": {}
+      }
+    ],
+    "date": "2020-11-06",
+    "categories": [
+      "workshop",
+      "statistics"
+    ],
+    "contents": "\nhttps://sites.google.com/view/gasp2020 A workshop focused on statistical programming for government applications across government and the private sector. Themes will include R and Python applications, data science, big data and official statistics, open source software, statistical computing software, and more.\nOctober 15 abstracts are due.\n\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-09-16T11:08:13-07:00",
+    "input_file": {}
+  },
+  {
+    "path": "events/2020-11-01-BigSurv20/",
+    "title": "BigSurv20",
+    "description": "Virtual Nov-Dec 2020. BigSurv is an opportunity for social scientists, survey methodologists, statisticians and others with an interest in computer and data science to meet, interact, exchange ideas, collaborate, and learn from each other.",
+    "author": [
+      {
+        "name": "Nathan",
+        "url": {}
+      }
+    ],
+    "date": "2020-11-01",
+    "categories": [
+      "conference",
+      "survey science",
+      "big data"
+    ],
+    "contents": "\nhttps://www.bigsurv20.org This conference is open to all. BigSurv is an opportunity for computer and data scientists with an interest in social science and data collection and for social scientists, survey methodologists, statisticians and others with an interest in computer and data science to meet, interact, exchange ideas, collaborate, and learn from each other.\n\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-09-16T11:05:37-07:00",
+    "input_file": {}
+  },
+  {
+    "path": "events/2020-09-01-nmfs-r-for-social-science/",
+    "title": "R for Social Scientists",
+    "description": "Sept 22-24, 2020. virtual workshop by NOAA Fisheries social scientists. Focus on data analysis and advanced topics.",
+    "author": [
+      {
+        "name": "Emily Markowitz",
+        "url": "https://emilyhmarkowitz.github.io/emilyhmarkowitz/"
+      }
+    ],
+    "date": "2020-09-22",
+    "categories": [
+      "workshop",
+      "social science",
+      "big data"
+    ],
+    "contents": "\nSept 22-24, 2020. 2020 R Workshop for Social Scientists virtual workshop by NOAA Fisheries social scientists. Focus on data analysis and advanced topics.\n\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-09-16T11:09:17-07:00",
+    "input_file": {}
   }
 ]

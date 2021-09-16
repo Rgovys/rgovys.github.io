@@ -18,10 +18,30 @@
       <dc:creator>Wendy Martinez</dc:creator>
       <link>https://rgovys.github.io/news/2021-07-21</link>
       <description>Meeting Notes from July 12, 2021</description>
-      <category>inter-agegeny r-users</category>
+      <category>inter-agency r-users</category>
       <category>meeting</category>
       <guid>https://rgovys.github.io/news/2021-07-21</guid>
       <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>NASA Announces 3-year Openscapes cohorts</title>
+      <dc:creator>Eli Holmes</dc:creator>
+      <link>https://rgovys.github.io/news/03-24-2021-nasa-openscapes-announcement</link>
+      <description>Mar 2021, NASA announced a 3-year Openscapes program to support training in in the tools for modern data science using open science workflows. The training program has a heavy emphasis on R and Python, which are mainstays of open science computing and statistical analysis.</description>
+      <category>remote-sensing</category>
+      <category>training</category>
+      <guid>https://rgovys.github.io/news/03-24-2021-nasa-openscapes-announcement</guid>
+      <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>IA R UG Meeting Notes Sept 14, 2020</title>
+      <dc:creator>Wendy Martinez</dc:creator>
+      <link>https://rgovys.github.io/news/2020-09-14</link>
+      <description>Meeting Notes from Sept 2020 Meeting</description>
+      <category>inter-agency r-users</category>
+      <category>meeting</category>
+      <guid>https://rgovys.github.io/news/2020-09-14</guid>
+      <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

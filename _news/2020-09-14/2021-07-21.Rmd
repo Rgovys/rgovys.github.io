@@ -1,0 +1,64 @@
+---
+title: "IA R UG Meeting Notes Sept 14, 2020"
+description: |
+  Meeting Notes from Sept 2020 Meeting
+author:
+  - name: Wendy Martinez
+date: 09-14-2020
+output:
+  distill::distill_article:
+    self_contained: false
+categories:
+  - inter-agency r-users
+  - meeting
+---
+
+## Meeting notes
+
+1.       COVID-19 Workshop (recap) and GASP!
+
+Data Science Conference on COVID – Mike Jadoo – 210 people showed up. RSVP count was 871, so people came in and out. Recordings are on the website. Mike will send a link to the recordings and slides when it is available.
+ 
+GASP! – Nathan – FCSM CSPOS co-organized Government Advances in Statistical Programming workshop – Nov 6. October 15 abstracts are due. Wendy sent links already. Send questions to Nathan or Mike – GIVE EMAILS. George tried to register but had to do it again. [Workshop website](https://sites.google.com/view/gasp2020/home)
+
+2.       Big Data For Social Science – Sep 30 – Oct 2 – [Website](https://nsf.gov/events/event_summ.jsp?cntn_id=301101)
+![](Big Data _ Social Science Conference Flyer_Final.jpg){width=400px}
+
+ 
+
+3.       R Consortium Working Group proposal: Wendy will set up a meeting. Tomas, Nathan (CSPOS). Tomas spoke with the lead of the R Validation Hub. He was happy to help lead us through the admin part of it. Reach out to him and schedule a chat with him. Andy Nichols. We have a better idea of what we want to do. Maybe make a list of what we want to do and then get Andy’s help. Tomas will take this as an action item to set up a call or meeting. Wendy will send email reminder to Tomas.
+
+ 
+
+4.       Installation of Rtools40 on Windows – George – the tools also requires a modification to the underlying files reference. If anyone has trouble with the information on CRAN – setting up environment files/settings. `.Renviron` file. He was able to resolve it. Ann thinks it was fixed with R 4.0.2. Ann sent an email to the group with some helpful information.
+
+ 
+
+5.       Next meeting via WebEx? Wendy will send a WebEx meeting for the next meeting.
+
+ 
+
+6.       Agency updates:
+
+
+* **Tomas – FDA**: He is running a modeling and simulation work group at FDA. He developed an initiative called MS office hours. Develop a grass roots teaching initiative. If you do something in your daily routine you think is valuable, then set up a WebEx and teach it – a little snippet. Most successful one was a baby intro to R. Very basic stuff. Get people over the first barrier to using R. Just one hour. No preparation because it’s so basic. Would the group like to do it? It could be our group effort.  Ann likes this idea too. They have a basic intro class too taking place on Nov 18. Makes sense to do it as a broader group. Offer on a quarterly basis. Tomas, Mike, and Wendy can coordinate. Effort would be on how to advertise.  Ann said some can attend hers and/or she can tell us how it went. Ann sent an email about this opportunity.
+
+  COVID re-opening at FDA – do a vignette or talk on the project. HHS is producing numbers for white house directive on re-opening phases. Agencies take the data and use it to determine whether to re-open. They have a piece of R code that runs the data. Tomas can give a talk. Wendy will organize a presentation.
+
+ 
+* **Ann – EPA** – Nothing significant to report.
+
+ 
+* **Mike – BLS** – Had a long series of workshops showing R in different settings – R for webscraping, using R to create PPT, DS toolbox using R.
+
+  IDEA: Wendy set up a YouTube channel.  Have a series of very short snippets showing how to do something. But, would have to do it in the wild; i.e., no official logos. Keep this idea for the future. Need to think about it more.
+
+* **Nathan – NASS** – Upcoming conference opportunities – free – BigSurv20 (virtual and free, https://www.bigsurv20.org/ ) registration not up yet. He is using Bayesian models in R for county crop estimates. Open access paper using Bayesian models in R. An email from Nathan with the paper is attached.
+
+
+* **George – DOT** – he was able to improve aspects of things in R Markdown. He would be interested in discussing R Markdown more. Is this a topic for further discussion? Maybe a future agenda item. Areas of expertise we might want to develop.  R Markdown and apply it to production (official statistics). Mike Jadoo is exploring this now. He has something ready to share. This might be good for a separate meeting. George is happy to contribute. Wendy will send separate email to follow-up.
+
+ 
+* **Chuck – Census** – In process of organizing an R Users Affinity Group, which will give them more influence at Census. Attempts to get support failed. Proposals were considered and rejected.
+
+ 

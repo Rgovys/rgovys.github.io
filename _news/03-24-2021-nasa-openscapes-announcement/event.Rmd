@@ -1,0 +1,49 @@
+---
+title: "NASA Announces 3-year Openscapes cohorts"
+description: |
+  Mar 2021, NASA announced a 3-year Openscapes program to support training in in the tools for modern data science using open science workflows. The training program has a heavy emphasis on R and Python, which are mainstays of open science computing and statistical analysis.
+author:
+  - name: Eli Holmes
+date: 03-24-2021
+output:
+  distill::distill_article:
+    self_contained: false
+categories:
+  - remote-sensing
+  - training
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+[NASA announced](https://earthdata.nasa.gov/learn/articles/openscapes) a 3-year [Openscapes](https://www.openscapes.org/) program to support training in in the tools for modern data science using open science workflows within the Earth Observing System Data and Information System (EOSDIS) Distributed Active Archive Centers (DAACs). "Researchers are often tasked with analyzing large datasets, but they rarely have formal training in coding, data wrangling, and collaborative research practices. Compounding these challenges is the need to migrate data analyses to the cloud as remote sensing instruments provide higher resolution data." The training has a heavy emphasis on R and Python, which are mainstays of open science computing and statistical analysis.
+
+<!--
+
+You don't need this stuff. Delete.
+
+You can add a description under the heading if you need more info. But you can also leave this part blank if you only need a short description. Just add the description at the top.
+
+Categories: Add so that users can easily navigate. Here are the ones we have
+
+  - inter-agency r-users
+  - meeting
+  - workshop
+  - conference
+  - training
+  - presentation
+  - r packages
+  - python
+  - github
+  - rmarkdown
+  - social science
+  - big data
+  - statistics
+  
+-->
+
+
+
+

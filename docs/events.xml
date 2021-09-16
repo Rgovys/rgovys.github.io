@@ -33,5 +33,48 @@
       <guid>https://rgovys.github.io/events/2021-09-12-ia-rusers</guid>
       <pubDate>Thu, 12 Aug 2021 00:00:00 +0000</pubDate>
     </item>
+    <item>
+      <title>R Workflow for Scientists</title>
+      <dc:creator>Eli Holmes</dc:creator>
+      <link>https://rgovys.github.io/events/2021-06-01-rworkflow</link>
+      <description>1-hour workshops on Fridays in June and July 2021. Workshops on GitHub and R packages geared towards federal scientists.</description>
+      <category>workshop</category>
+      <category>github</category>
+      <category>R packages</category>
+      <guid>https://rgovys.github.io/events/2021-06-01-rworkflow</guid>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Government Advances in Statistical Programming workshop</title>
+      <dc:creator>Nathan</dc:creator>
+      <link>https://rgovys.github.io/events/2020-11-06-gov-statistical-programming</link>
+      <description>Nov 6, 2020 A workshop focused on statistical programming for government applications across government and the private sector.</description>
+      <category>workshop</category>
+      <category>statistics</category>
+      <guid>https://rgovys.github.io/events/2020-11-06-gov-statistical-programming</guid>
+      <pubDate>Fri, 06 Nov 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>BigSurv20</title>
+      <dc:creator>Nathan</dc:creator>
+      <link>https://rgovys.github.io/events/2020-11-01-BigSurv20</link>
+      <description>Virtual Nov-Dec 2020. BigSurv is an opportunity for social scientists, survey methodologists, statisticians and others with an interest in computer and data science to meet, interact, exchange ideas, collaborate, and learn from each other.</description>
+      <category>conference</category>
+      <category>survey science</category>
+      <category>big data</category>
+      <guid>https://rgovys.github.io/events/2020-11-01-BigSurv20</guid>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>R for Social Scientists</title>
+      <dc:creator>Emily Markowitz</dc:creator>
+      <link>https://rgovys.github.io/events/2020-09-01-nmfs-r-for-social-science</link>
+      <description>Sept 22-24, 2020. virtual workshop by NOAA Fisheries social scientists. Focus on data analysis and advanced topics.</description>
+      <category>workshop</category>
+      <category>social science</category>
+      <category>big data</category>
+      <guid>https://rgovys.github.io/events/2020-09-01-nmfs-r-for-social-science</guid>
+      <pubDate>Tue, 22 Sep 2020 00:00:00 +0000</pubDate>
+    </item>
   </channel>
 </rss>

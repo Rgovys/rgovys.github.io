@@ -4,6 +4,8 @@ description: |
   Add a description
 author:
   - name: Your name
+    url: if you want a link to your website
+    affiliation: your affiliation
 date: 09-15-2021
 output:
   distill::distill_article:
@@ -19,7 +21,7 @@ categories:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## Add a heading here
+Add a longer description here with link to the website, if applicable.
 
 <!--
 
@@ -31,9 +33,17 @@ Categories: Add so that users can easily navigate. Here are the ones we have
 
   - inter-agency r-users
   - meeting
+  - workshop
   - conference
   - training
   - presentation
+  - r packages
+  - python
+  - github
+  - rmarkdown
+  - social science
+  - big data
+  - statistics
   
 -->
 
