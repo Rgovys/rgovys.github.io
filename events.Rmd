@@ -8,7 +8,8 @@ output:
     toc: false
 ---
 
-Want to add event or not seeing events? See the [FAQ](faq.html)
+Not seeing events? [Click this link instead](https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FNew_York&src=cmdvdnlzQGdtYWlsLmNvbQ&src=NnR2NGJzN2lqMnZiYWtybTFtbWR1NjVqZzBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=cjZkcDJkaGFhM2Y0ZDIzNGoxZXFhc2NjcmdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23039BE5&color=%23009688&color=%23009688&showTitle=1)
+Want to add events or still not seeing events? See the [FAQ](faq.html)
 
 <div class="h_iframe">
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FNew_York&src=cmdvdnlzQGdtYWlsLmNvbQ&src=NnR2NGJzN2lqMnZiYWtybTFtbWR1NjVqZzBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=cjZkcDJkaGFhM2Y0ZDIzNGoxZXFhc2NjcmdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23039BE5&color=%23009688&color=%23009688&showTitle=1" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe></div>

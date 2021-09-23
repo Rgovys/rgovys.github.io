@@ -18,7 +18,7 @@ R-Govys is an [R consortium](https://www.r-consortium.org/) working group to sup
 
 ## Events
 
-See the Events tab for the R-Govys calendar of events.
+See the [Events tab](events.html) for the R-Govys calendar of events.
 
 <!--
 <script language="JavaScript" src="https://www.feedroll.com/rssviewer/feed2js.php?src=https%3A%2F%2Frgovys.github.io%2Fevents.xml&desc=1&utf=y"  charset="UTF-8" type="text/javascript"></script>
