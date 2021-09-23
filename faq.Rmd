@@ -1,0 +1,30 @@
+---
+title: "FAQ"
+description: |
+  Answers to questons 
+output:
+  distill::distill_article:
+    self_contained: false
+    toc: true
+    toc_depth: 3
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## I'd like to add an event
+
+If you are in an R-Govy group, such as the Inter-agency R Users Group, contact the group organizers to find out who posts events to that calendar. Both public events and events limited to your R-Govy group can be posted. Only members will see the latter.
+
+If you are not part of an R-Govy group and want to add an event, <a href = "mailto: rgovys@gmail.com">send an email</a>.
+
+## I am not seeing events that I think I should
+
+To see calendar events that are specific to a particular R-Govy group, you need to be invited to that calendar. Some events are only for certain groups (not open to the public). So first step is to contact the R-Govy group that you expect to see events for. Where do I find that? Ask around in your agency or you can <a href = "mailto: rgovys@gmail.com">send an email</a> and we might be able to point you in the right direction.
+
+
+
+<center>
+    <img src="images/Rgovys-logo.png" width="300px">
+</center>

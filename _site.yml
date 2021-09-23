@@ -23,6 +23,8 @@ navbar:
       href: posts.html
     - text: "Resources"
       href: resources.html      
+    - text: "FAQ"
+      href: faq.html      
     - icon: fab fa-github
       href: https://github.com/Rgovys
 theme: theme.css

@@ -3,7 +3,7 @@
   <channel>
     <title>R-Govys</title>
     <link>https://rgovys.github.io</link>
-    <atom:link href="https://rgovys.github.io/events.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://rgovys.github.io/events-listing.xml" rel="self" type="application/rss+xml"/>
     <description>R-Govys
 </description>
     <image>
