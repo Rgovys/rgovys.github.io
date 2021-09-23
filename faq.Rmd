@@ -25,6 +25,14 @@ To see calendar events that are specific to a particular R-Govy group, you need 
 
 Do you want to be added to a specific R-Govy group so you can see events? Contact the R-Govy group that you want to join. Where do I find that? Ask R users in your agency or you can <a href = "mailto: rgovys@gmail.com">send an email</a> and we might be able to point you in the right direction.
 
+## What R User groups post events here?
+
+9/23/2021 The following calendars are here:
+
+* Public events that the organizers happen to know about
+* Inter-agency R User Group events
+* NMFS R User Group events that EEH happens to know about
+
 <center>
     <img src="images/Rgovys-logo.png" width="300px">
 </center>

@@ -13,11 +13,17 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-### Contact
+### R-Govys Groups and R Users Groups
 
-Please contact ..... to join the R-Govys mailing list.
+Inter-agency R Users Group - a cross-agency R Users group in the US federal agencies to promote training and event information dissemination across agencies.
 
-### Members
+BLS R Users Group
+
+NMFS R Users Groups - Facilitating R trainings and support for R users in NOAA Fisheries. The following centers have active R User groups.
+* SWFSC R User Group - Southwest Fisheries Science Center
+* AFSC R User Group - Alaska Fisheries Science Center
+
+### R-Govys Contacts
 
 **Wendy Martinez**
 
