@@ -12,7 +12,17 @@
       <link>https://rgovys.github.io</link>
     </image>
     <generator>Distill</generator>
-    <lastBuildDate>Wed, 15 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>vdiffr package</title>
+      <dc:creator>E. Eli Holmes</dc:creator>
+      <link>https://rgovys.github.io/posts/2021-09-28-vdiffr</link>
+      <description>Tests to compare plots for R packages</description>
+      <category>testing</category>
+      <category>R packages</category>
+      <guid>https://rgovys.github.io/posts/2021-09-28-vdiffr</guid>
+      <pubDate>Tue, 28 Sep 2021 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>welcome</title>
       <dc:creator>E. Eli Holmes</dc:creator>

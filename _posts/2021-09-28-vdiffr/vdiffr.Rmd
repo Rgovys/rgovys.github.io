@@ -1,0 +1,177 @@
+---
+title: "vdiffr package"
+description: |
+  Tests to compare plots for R packages
+author:
+  - name: E. Eli Holmes
+    url: https://eeholmes.github.io
+    affiliation: NOAA Fisheries
+    affiliation_url: https://www.fisheries.noaa.gov/about/northwest-fisheries-science-center
+date: 09-28-2021
+output:
+  distill::distill_article:
+    self_contained: false
+categories:
+  - testing
+  - R packages
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+This is for **vdiffr** version 1.0.2.9000. The package is in development so syntax and behavior is likely to change. Read the [testing chapter](https://r-pkgs.org/tests.html) in the [R packages book](https://r-pkgs.org/index.html) for background on writing tests for R packages.
+
+## Tests to compare two images
+
+[https://vdiffr.r-lib.org/](https://vdiffr.r-lib.org/) is a package that integrates with the **testthat** package to allow tests that compare plot outputs.
+
+### Setting up your package for unit testing
+
+```
+usethis::use_testthat()
+```
+Makes the `tests` folder and `testthat` subfolder.
+
+Within the `testthat` folder,
+```
+usethis::use_test(name="xyz")
+```
+This will make a test file `test-xyz.R` in the `testthis` subfolder. When you make your own test files, replace "xyz" with your test name.
+
+To run the tests, you can open `test-xyz.R` in RStudio and it will recognize that this is a test file. "Run tests" will show up on the upper right of the file.
+
+### snapshot workflow
+
+The first time that you run `expect_doppelganger("xyz", plt1)` **within** a `test_that()` call, a snapshot expectation will run and a svg of `plt1` will be made in `tests/testthat/_snaps/xyz` called `xyz.svg`. The next time `expect_doppelganger("xyz", plt2)` is run within a `test_that()` call, a svg of `plt2` will be made and compared to `xyz.svg`. If it is different, the file `xyz.new.svg` will be made in `tests/testthat/_snaps/xyz`.
+
+Because of this workflow, we want to make sure `tests/testthat/_snaps/xyz` is empty before we start because we have to run `expect_doppelganger("xyz", plt1)` to create `xyz.svg` but if `xyz.svg` is already there from previous tests, we might end up creating `xyz.new.svg` if `plt1` is a different plot than `xyz.svg`.
+
+The full `test-xyz.R` test file is below. Here I break down the parts of that file.
+
+### Header
+
+Give some info about the tests (`context`), load packages, and then clean up the `_snaps` folder. Having old svgs there can mess up your tests.
+```
+context("xyz")
+library(ggplot2)
+library(vdiffr)
+
+# Clean up the _snaps folder for this test file
+# Note this won't be necessary in some situations
+fils <- dir(file.path(here::here(), "tests", "testthat", "_snaps", "xyz"), full.names = TRUE)
+file.remove(fils)
+```
+
+### Compare two ggplots plot
+
+Here is the contents of `test-xyz.R` to compare two plots. This test should fail because the plots are different.
+
+* Step 1 make first plot and run `expect_doppelganger()` to create a svg file in `_snaps` that is used to compare against. The name of the file is the first argument and must be the same in the `expect_doppelganger()` calls.
+
+```
+plt <- ggplot(mtcars, aes(mpg)) + geom_histogram()
+# Save as ggplot-test1.svg in _snaps folder
+# This will appear as a successful test, i.e. plot successfully created
+test_that("setup", {
+  expect_doppelganger("ggplot-test1", plt)
+})
+```
+
+* Step 2. Create 2nd plot and compare to `ggplot-test1.svg` already in `_snaps` folder.
+
+```
+plt <- ggplot(mtcars, aes(disp)) + geom_histogram()
+test_that("plots are different", {
+  expect_doppelganger("ggplot-test1", plt)
+})
+```
+Since they are different, you will see `ggplot-test1.new.svg` in the  `_snaps` folder.
+
+### Compare two base plots
+
+The syntax here is a little different. The object that you pass into `expect_doppelganger()` as the second argument is a function that creates the base plot. Otherwise the steps are the same.
+
+```
+plt <- function(){ hist(mtcars$mpg) }
+# Step 1. Create base-test.svg
+# This will appear as a successful test, i.e. plot successfully created
+test_that("setup", {
+  expect_doppelganger("base-test", plt)
+})
+# Step 2. Test new plot against base-test.svg
+# Test will fail since they are different
+plt <- function(){ hist(mtcars$disp) }
+test_that("plots are different", {
+  expect_doppelganger("base-test", plt)
+})
+```
+
+## Final `test-xyz.R` file
+
+This should be in the `testthat` folder in `tests` folder. Running this will show 2 Fails and 4 Passes. To run, you can open the file in RStudio and look for the "Run Tests" button in top right of file. Or run this code.
+```
+fil <- file.path(here::here(), "tests", "testthat", "test-xyz.R")
+testthat::test_file(fil)
+```
+Or open the file in RStudio and run this code:
+```
+devtools::test_active_file()
+```
+
+The full test file.
+```
+context("xyz")
+library(ggplot2)
+library(vdiffr)
+
+# Clean up the _snaps folder for this test file
+# Note this won't be necessary in some situations
+fils <- dir(file.path(here::here(), "tests", "testthat", "_snaps", "xyz"), full.names = TRUE)
+file.remove(fils)
+
+# This test should fail. The plots are different
+# Step 1 make first plot
+plt <- ggplot(mtcars, aes(mpg)) + geom_histogram()
+# Save as ggplot-test1.svg in _snaps folder
+# This will appear as a successful test, i.e. plot successfully created
+test_that("setup", {
+  expect_doppelganger("ggplot-test1", plt)
+})
+# Step 2. Create 2nd plot and compare to ggplot-test1.svg in _snaps folder
+plt <- ggplot(mtcars, aes(disp)) + geom_histogram()
+test_that("plots are different", {
+  expect_doppelganger("ggplot-test1", plt)
+})
+# Since they are different, you will see ggplot-test1.new.svg in the _snaps folder
+
+# This test should not fail. The plots should be the same.
+fun <- function(dat){ return(ggplot(dat, aes(mpg)) + geom_histogram()) }
+plt <- fun(mtcars)
+# Step 1. Create ggplot-test2.svg
+# This will appear as a successful test, i.e. plot successfully created
+test_that("setup", {
+  expect_doppelganger("ggplot-test2", plt)
+})
+# Step 2. Test new plot against ggplot-test2.svg
+plt <- fun(na.omit(mtcars))
+test_that("plots are the same", {
+  expect_doppelganger("ggplot-test2", plt)
+})
+# Since they are the same, you will NOT see ggplot-test2.new.svg in the _snaps folder
+
+# Comparing plots made with base graphics; Create a function that makes the plot
+plt <- function(){ hist(mtcars$mpg) }
+# Step 1. Create base-test.svg
+# This will appear as a successful test, i.e. plot successfully created
+test_that("setup", {
+  expect_doppelganger("base-test", plt)
+})
+# Step 2. Test new plot against base-test.svg
+# Test will fail since they are different
+plt <- function(){ hist(mtcars$disp) }
+test_that("plots are different", {
+  expect_doppelganger("base-test", plt)
+})
+```
