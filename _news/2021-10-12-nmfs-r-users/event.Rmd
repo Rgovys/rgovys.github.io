@@ -50,4 +50,8 @@ Agenda for the October 12, 2021 Meeting: Getting organized and a short cool topi
 
 Instructions to see the virtual meeting link and shared documents. 
 
+Make sure you are logged into your NOAA Google account in your browser. Then click [the calendar event](https://calendar.google.com/event?action=TEMPLATE&tmeid=MG05MWM5ZmdzZDYxOTY5Ym9sMzI1c2JkYnMgbm9hYS5nb3ZfNjByZm43bWw5cnBjaGw2M3ZzNGFmOW4wMThAZw&tmsrc=noaa.gov_60rfn7ml9rpchl63vs4af9n018%40group.calendar.google.com) to see the event and add to your calendar.
+
+Alternative instructions:
+
 Go to the Events tab. In the top right, you'll see a little arrow. Click that and make sure you can see the NMFS R Users calendar. If you can, then click on the event on Oct 12th, 2021 and click on 'show details' in the event pop-up. *I can't see the NMFS R Users calendar*. You need to be logged into your NOAA Google account in your browser. *I don't have a NOAA email* NMFS = National Marine Fisheries Service. This is a NOAA Fisheries R User group. You can join the Inter-Agency R Users Group if you are in a different US federal agency.
