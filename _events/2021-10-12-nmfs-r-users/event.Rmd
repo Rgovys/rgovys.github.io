@@ -1,0 +1,50 @@
+---
+title: "NMFS R Users Meeting"
+description: |
+  Inaugural meeting of the NMFS R Users Group
+author:
+  - name: Emily Markowitz
+    url: https://emilyhmarkowitz.github.io/emilyhmarkowitz/
+    affiliation: NOAA Fisheries, AFSC
+date: 10-12-2021
+output:
+  distill::distill_article:
+    self_contained: false
+categories:
+  - nmfs-r-users
+  - rmarkdown
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Inaugural meeting of the NMFS R Users Group! 
+
+Agenda for the October 12, 2021 Meeting: Getting organized and a short cool topic presentation.
+
+1. What do we want this R Users group to do? 
+
+   - All things R across all of NOAA? 
+   - Tutorial sharing? 
+   - Reading group? 
+   - Lightning talks? 
+   - Tidy Tuesday challenges?
+
+2. Topics we would like to see discussed this quarter. Examples
+
+   - {Targets}	Tutorial
+   - {NMFSReports} - can we work on something like this together?	     - Lightning talks about how we write reports with R Markdown. Pros and Cons?	Presentation + Discussion
+   - {testthat} Tutorial
+   - {googledrive} Tutorial
+
+3. How often we would like to meet.
+
+4. Then we'll have a short presentation on a cool topic.
+
+### How to see the meeting info
+
+Instructions to see the virtual meeting link and shared documents. 
+
+Go to the Events tab. In the top right, you'll see a little arrow. Click that and make sure you can see the NMFS R Users calendar. If you can, then click on the event on Oct 12th, 2021 and click on 'show details' in the event pop-up. *I can't see the NMFS R Users calendar*. You need to be logged into your NOAA Google account in your browser. *I don't have a NOAA email* NMFS = National Marine Fisheries Service. This is a NOAA Fisheries R User group. You can join the Inter-Agency R Users Group if you are in a different US federal agency.
