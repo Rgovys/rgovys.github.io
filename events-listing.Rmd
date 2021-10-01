@@ -1,5 +1,0 @@
----
-title: "Events"
-site: distill::distill_website
-listing: events
----

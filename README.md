@@ -10,10 +10,7 @@ Landing page for Rgovys.
   - this can be a sandbox of sorts
   - just upload stuff here
 * Adding events
-  - Open `_events` folder
-  - Copy `template` folder and give a name
-  - Rename `template.Rmd` to something else
-  - After you have edited the Rmd file, click `knit` in RStudio.
+  - Add events to one of the linked Google Calendars
 * Adding news (and stuff like meeting notes)
   - Open `_news` folder
   - Copy `template` folder and give a name
