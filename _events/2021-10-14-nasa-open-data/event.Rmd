@@ -1,0 +1,26 @@
+---
+title: "NASA Open Data Workshop Oct 14th"
+description: |
+  Open Source Science for Data Processing and Archives Workshop
+author:
+  - name: Eli Holmes
+    url: https://github.com/eeholmes
+    affiliation: NOAA Fisheries
+date: 10-01-2021
+output:
+  distill::distill_article:
+    self_contained: false
+categories:
+  - workshop
+  - NASA
+  - big data
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+[Open Source Science for Data Processing and Archives Workshop](https://science.nasa.gov/researchers/science-data/open-source-science-workshop)
+
+On October 14, 2021 from 12:00pm - 3:00pm ET, NASA will be holding a virtual workshop on the Open Source Science Initiative which is part of NASA's [Strategy for Data Management and Computing for Groundbreaking Science 2019-2024](https://science.nasa.gov/science-pink/s3fs-public/atoms/files/Crawford_information_policy_MOE_June2021.pdf).  The workshop will also introduce NASA's Transform to Open Science (TOPS) initiative to help jump start the adoption of open science across NASA's data communities. See the [announcement](https://science.nasa.gov/researchers/science-data/open-source-science-workshop) for full details. Open to the public.

@@ -1,22 +1,23 @@
 [
   {
-    "path": "events/2021-10-12-nmfs-r-users/",
-    "title": "NMFS R Users Meeting",
-    "description": "Inaugural meeting of the NMFS R Users Group",
+    "path": "events/2021-10-14-nasa-open-data/",
+    "title": "NASA Open Data Workshop Oct 14th",
+    "description": "Open Source Science for Data Processing and Archives Workshop",
     "author": [
       {
-        "name": "Emily Markowitz",
-        "url": "https://emilyhmarkowitz.github.io/emilyhmarkowitz/"
+        "name": "Eli Holmes",
+        "url": "https://github.com/eeholmes"
       }
     ],
-    "date": "2021-10-12",
+    "date": "2021-10-01",
     "categories": [
-      "nmfs-r-users",
-      "rmarkdown"
+      "workshop",
+      "NASA",
+      "big data"
     ],
-    "contents": "\nInaugural meeting of the NMFS R Users Group!\nAgenda for the October 12, 2021 Meeting: Getting organized and a short cool topic presentation.\nWhat do we want this R Users group to do? Suggestions:\nAll things R across all of NOAA Fisheries\n15 minute talks on cool topics\nTutorial sharing\nLightning talks\nDiscussions on best practices\n\nReading group\nTidy Tuesday challenges\nBreakout groups/brainstorming/hack-a-thons for developing better workflows/products\n\nTopics we would like to see discussed this quarter. Examples:\n{Targets} - Tutorial\n{NMFSReports} - can we work on something like this together to help standardize our annual report writing processes across NMFS?\nLightning talks about how we write reports with R Markdown. Pros and Cons? Presentation + Discussion\n{testthat} - Tutorial\n{googledrive} - Tutorial\nWhat should be shared on GitHub - discussion about best practices and caveats\n\nHow often we would like to meet.\nHow to see the meeting info\nInstructions to see the virtual meeting link and shared documents.\nGo to the Events tab. In the top right, you’ll see a little arrow. Click that and make sure you can see the NMFS R Users calendar. If you can, then click on the event on Oct 12th, 2021 and click on ‘show details’ in the event pop-up. I can’t see the NMFS R Users calendar. You need to be logged into your NOAA Google account in your browser. I don’t have a NOAA email NMFS = National Marine Fisheries Service. This is a NOAA Fisheries R User group. You can join the Inter-Agency R Users Group if you are in a different US federal agency.\n\n\n\n",
+    "contents": "\nOpen Source Science for Data Processing and Archives Workshop\nOn October 14, 2021 from 12:00pm - 3:00pm ET, NASA will be holding a virtual workshop on the Open Source Science Initiative which is part of NASA’s Strategy for Data Management and Computing for Groundbreaking Science 2019-2024. The workshop will also introduce NASA’s Transform to Open Science (TOPS) initiative to help jump start the adoption of open science across NASA’s data communities. See the announcement for full details. Open to the public.\n\n\n\n",
     "preview": {},
-    "last_modified": "2021-10-01T15:32:23-07:00",
+    "last_modified": "2021-10-01T14:45:02-07:00",
     "input_file": "event.knit.md"
   },
   {
