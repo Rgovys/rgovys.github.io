@@ -24,24 +24,27 @@ knitr::opts_chunk$set(echo = FALSE)
 
 Agenda for the October 12, 2021 Meeting: Getting organized and a short cool topic presentation.
 
-1. What do we want this R Users group to do? 
+1. What do we want this R Users group to do? Suggestions: 
 
-   - All things R across all of NOAA? 
-   - Tutorial sharing? 
-   - Reading group? 
-   - Lightning talks? 
-   - Tidy Tuesday challenges?
+   - All things R across all of NOAA Fisheries
+   - 15 minute talks on cool topics
+     - Tutorial sharing 
+     - Lightning talks
+     - Discussions on best practices
+   - Reading group
+   - Tidy Tuesday challenges
+   - Breakout groups/brainstorming/hack-a-thons for developing better workflows/products
 
-2. Topics we would like to see discussed this quarter. Examples
+2. Topics we would like to see discussed this quarter. Examples:
 
-   - {Targets}	Tutorial
-   - {NMFSReports} - can we work on something like this together?	     - Lightning talks about how we write reports with R Markdown. Pros and Cons?	Presentation + Discussion
-   - {testthat} Tutorial
-   - {googledrive} Tutorial
+   - {Targets} - Tutorial
+   - {NMFSReports} - can we work on something like this together to help standardize our annual report writing processes across NMFS?	     
+   - Lightning talks about how we write reports with R Markdown. Pros and Cons?	Presentation + Discussion
+   - {testthat} - Tutorial
+   - {googledrive} - Tutorial
+   - What should be shared on GitHub - discussion about best practices and caveats
 
 3. How often we would like to meet.
-
-4. Then we'll have a short presentation on a cool topic.
 
 ### How to see the meeting info
 
