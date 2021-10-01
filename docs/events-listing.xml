@@ -12,18 +12,7 @@
       <link>https://rgovys.github.io</link>
     </image>
     <generator>Distill</generator>
-    <lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate>
-    <item>
-      <title>NASA Open Data Workshop Oct 14th</title>
-      <dc:creator>Eli Holmes</dc:creator>
-      <link>https://rgovys.github.io/events/2021-10-14-nasa-open-data</link>
-      <description>Open Source Science for Data Processing and Archives Workshop</description>
-      <category>workshop</category>
-      <category>NASA</category>
-      <category>big data</category>
-      <guid>https://rgovys.github.io/events/2021-10-14-nasa-open-data</guid>
-      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 15 Sep 2021 00:00:00 +0000</lastBuildDate>
     <item>
       <title>Inter-Agency R Users bi-monthly meeting</title>
       <dc:creator>Wendy Martinez</dc:creator>

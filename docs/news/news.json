@@ -1,5 +1,26 @@
 [
   {
+    "path": "news/2021-10-14-nasa-open-data/",
+    "title": "NASA Open Data Workshop Oct 14th",
+    "description": "Open Source Science for Data Processing and Archives Workshop",
+    "author": [
+      {
+        "name": "Eli Holmes",
+        "url": "https://github.com/eeholmes"
+      }
+    ],
+    "date": "2021-10-01",
+    "categories": [
+      "workshop",
+      "NASA",
+      "big data"
+    ],
+    "contents": "\nOpen Source Science for Data Processing and Archives Workshop\nOn October 14, 2021 from 12:00pm - 3:00pm ET, NASA will be holding a virtual workshop on the Open Source Science Initiative which is part of NASA’s Strategy for Data Management and Computing for Groundbreaking Science 2019-2024. The workshop will also introduce NASA’s Transform to Open Science (TOPS) initiative to help jump start the adoption of open science across NASA’s data communities. See the announcement for full details. Open to the public.\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-10-01T15:38:08-07:00",
+    "input_file": {}
+  },
+  {
     "path": "news/2021-07-21/",
     "title": "IA R UG Meeting July 12, 2021",
     "description": "Meeting Notes from July 12, 2021",
