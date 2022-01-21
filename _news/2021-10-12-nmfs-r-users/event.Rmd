@@ -1,7 +1,7 @@
 ---
-title: "NMFS R Users Meeting"
+title: "NMFS R Users Meetings"
 description: |
-  Inaugural meeting of the NMFS R Users Group
+  NMFS R Users Group
 author:
   - name: Emily Markowitz
     url: https://emilyhmarkowitz.github.io/emilyhmarkowitz/
@@ -20,7 +20,14 @@ categories:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## Inaugural meeting of the NMFS R Users Group! 
+## Join the NMFS R Users Group
+
+We have monthly meetings on topics of interests to R users in our agency. Info and upcoming events here: https://nmfs-openscapes.github.io/NMFS-R-UG/
+
+Sign up for our email list:
+Make sure you are logged into your NOAA Google account in your browser. Then click [sign-up for NMFS R UG](https://docs.google.com/spreadsheets/d/1WwiGAf7Lmrx3sdrif3R-IhIJiXUIFBHydloixY6fWuo/edit#gid=0) to see the event and add to your calendar.
+
+## Oct 2021 Inaugural meeting of the NMFS R Users Group! 
 
 Agenda for the October 12, 2021 Meeting: Getting organized and a short cool topic presentation.
 

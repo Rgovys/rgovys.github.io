@@ -85,9 +85,9 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 </style>
 
   <!--radix_placeholder_meta_tags-->
-<title>R-Govys: NMFS R Users Meeting</title>
+<title>R-Govys: NMFS R Users Meetings</title>
 
-<meta property="description" itemprop="description" content="Inaugural meeting of the NMFS R Users Group"/>
+<meta property="description" itemprop="description" content="NMFS R Users Group"/>
 
 <link rel="canonical" href="https://rgovys.github.io/news/2021-10-12-nmfs-r-users/"/>
 <link rel="icon" type="image/vnd.microsoft.icon" href="../../favicon.ico"/>
@@ -98,24 +98,24 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <meta name="article:author" content="Emily Markowitz"/>
 
 <!--  https://developers.facebook.com/docs/sharing/webmasters#markup -->
-<meta property="og:title" content="R-Govys: NMFS R Users Meeting"/>
+<meta property="og:title" content="R-Govys: NMFS R Users Meetings"/>
 <meta property="og:type" content="article"/>
-<meta property="og:description" content="Inaugural meeting of the NMFS R Users Group"/>
+<meta property="og:description" content="NMFS R Users Group"/>
 <meta property="og:url" content="https://rgovys.github.io/news/2021-10-12-nmfs-r-users/"/>
 <meta property="og:locale" content="en_US"/>
 <meta property="og:site_name" content="R-Govys"/>
 
 <!--  https://dev.twitter.com/cards/types/summary -->
 <meta property="twitter:card" content="summary"/>
-<meta property="twitter:title" content="R-Govys: NMFS R Users Meeting"/>
-<meta property="twitter:description" content="Inaugural meeting of the NMFS R Users Group"/>
+<meta property="twitter:title" content="R-Govys: NMFS R Users Meetings"/>
+<meta property="twitter:description" content="NMFS R Users Group"/>
 <meta property="twitter:url" content="https://rgovys.github.io/news/2021-10-12-nmfs-r-users/"/>
 
 <!--/radix_placeholder_meta_tags-->
   <!--radix_placeholder_rmarkdown_metadata-->
 
 <script type="text/json" id="radix-rmarkdown-metadata">
-{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","author","date","output","categories","canonical_url"]}},"value":[{"type":"character","attributes":{},"value":["NMFS R Users Meeting"]},{"type":"character","attributes":{},"value":["Inaugural meeting of the NMFS R Users Group"]},{"type":"list","attributes":{},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["name","url","affiliation"]}},"value":[{"type":"character","attributes":{},"value":["Emily Markowitz"]},{"type":"character","attributes":{},"value":["https://emilyhmarkowitz.github.io/emilyhmarkowitz/"]},{"type":"character","attributes":{},"value":["NOAA Fisheries, AFSC"]}]}]},{"type":"character","attributes":{},"value":["10-12-2021"]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["distill::distill_article"]}},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["self_contained"]}},"value":[{"type":"logical","attributes":{},"value":[false]}]}]},{"type":"character","attributes":{},"value":["nmfs-r-users","rmarkdown"]},{"type":"character","attributes":{},"value":["https://rgovys.github.io/news/2021-10-12-nmfs-r-users/"]}]}
+{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","author","date","output","categories","canonical_url"]}},"value":[{"type":"character","attributes":{},"value":["NMFS R Users Meetings"]},{"type":"character","attributes":{},"value":["NMFS R Users Group"]},{"type":"list","attributes":{},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["name","url","affiliation"]}},"value":[{"type":"character","attributes":{},"value":["Emily Markowitz"]},{"type":"character","attributes":{},"value":["https://emilyhmarkowitz.github.io/emilyhmarkowitz/"]},{"type":"character","attributes":{},"value":["NOAA Fisheries, AFSC"]}]}]},{"type":"character","attributes":{},"value":["10-12-2021"]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["distill::distill_article"]}},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["self_contained"]}},"value":[{"type":"logical","attributes":{},"value":[false]}]}]},{"type":"character","attributes":{},"value":["nmfs-r-users","rmarkdown"]},{"type":"character","attributes":{},"value":["https://rgovys.github.io/news/2021-10-12-nmfs-r-users/"]}]}
 </script>
 <!--/radix_placeholder_rmarkdown_metadata-->
   
@@ -1614,10 +1614,7 @@ function init_distill() {
 
     // hoverable references
     $('span.citation[data-cites]').each(function() {
-      var refs = $(this).attr('data-cites').split(" ");
-      var refHtml = refs.map(function(ref) {
-        return "<p>" + $('#ref-' + ref).html() + "</p>";
-      }).join("\n");
+      var refHtml = $('#ref-' + $(this).attr('data-cites')).html();
       window.tippy(this, {
         allowHTML: true,
         content: refHtml,
@@ -2226,7 +2223,7 @@ d-appendix d-footnote-list a.footnote-backlink {
 <!--radix_placeholder_front_matter-->
 
 <script id="distill-front-matter" type="text/json">
-{"title":"NMFS R Users Meeting","description":"Inaugural meeting of the NMFS R Users Group","authors":[{"author":"Emily Markowitz","authorURL":"https://emilyhmarkowitz.github.io/emilyhmarkowitz/","affiliation":"NOAA Fisheries, AFSC","affiliationURL":"#","orcidID":""}],"publishedDate":"2021-10-12T00:00:00.000+00:00","citationText":"Markowitz, 2021"}
+{"title":"NMFS R Users Meetings","description":"NMFS R Users Group","authors":[{"author":"Emily Markowitz","authorURL":"https://emilyhmarkowitz.github.io/emilyhmarkowitz/","affiliation":"NOAA Fisheries, AFSC","affiliationURL":"#","orcidID":""}],"publishedDate":"2021-10-12T00:00:00.000+00:00","citationText":"Markowitz, 2021"}
 </script>
 
 <!--/radix_placeholder_front_matter-->
@@ -2259,14 +2256,14 @@ d-appendix d-footnote-list a.footnote-backlink {
 <!--/radix_placeholder_site_before_body-->
 
 <div class="d-title">
-<h1>NMFS R Users Meeting</h1>
+<h1>NMFS R Users Meetings</h1>
 <!--radix_placeholder_categories-->
 <div class="dt-tags">
   <a href="../../news.html#category:nmfs-r-users" class="dt-tag">nmfs-r-users</a>
   <a href="../../news.html#category:rmarkdown" class="dt-tag">rmarkdown</a>
 </div>
 <!--/radix_placeholder_categories-->
-<p><p>Inaugural meeting of the NMFS R Users Group</p></p>
+<p><p>NMFS R Users Group</p></p>
 </div>
 
 <div class="d-byline">
@@ -2276,7 +2273,10 @@ d-appendix d-footnote-list a.footnote-backlink {
 </div>
 
 <div class="d-article">
-<h2 id="inaugural-meeting-of-the-nmfs-r-users-group">Inaugural meeting of the NMFS R Users Group!</h2>
+<h2 id="join-the-nmfs-r-users-group">Join the NMFS R Users Group</h2>
+<p>We have monthly meetings on topics of interests to R users in our agency. Info and upcoming events here: <a href="https://nmfs-openscapes.github.io/NMFS-R-UG/" class="uri">https://nmfs-openscapes.github.io/NMFS-R-UG/</a></p>
+<p>Sign up for our email list: Make sure you are logged into your NOAA Google account in your browser. Then click <a href="https://docs.google.com/spreadsheets/d/1WwiGAf7Lmrx3sdrif3R-IhIJiXUIFBHydloixY6fWuo/edit#gid=0">sign-up for NMFS R UG</a> to see the event and add to your calendar.</p>
+<h2 id="oct-2021-inaugural-meeting-of-the-nmfs-r-users-group">Oct 2021 Inaugural meeting of the NMFS R Users Group!</h2>
 <p>Agenda for the October 12, 2021 Meeting: Getting organized and a short cool topic presentation.</p>
 <ol type="1">
 <li><p>What do we want this R Users group to do? Suggestions:</p>
@@ -2323,13 +2323,11 @@ d-appendix d-footnote-list a.footnote-backlink {
 <!--radix_placeholder_appendices-->
 <div class="appendix-bottom"></div>
 <!--/radix_placeholder_appendices-->
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
-<!--radix_placeholder_navigation_after_body--><html><body>
+<!--radix_placeholder_navigation_after_body-->
 <div class="distill-site-nav distill-site-footer">
-<p>This website was made with <u><a href="https://rstudio.github.io/distill/">distill by RStudio</a></u>, and with inspiration from the <u><a href="https://nasa-openscaptes.github.io/">NASA Openscapes website</a></u>.</p>
+  <p>This website was made with <u><a href="https://rstudio.github.io/distill/">distill by RStudio</a></u>, and with inspiration from the <u><a href="https://nasa-openscaptes.github.io/">NASA Openscapes website</a></u>.</p>
 </div>
 <!--/radix_placeholder_navigation_after_body-->
-</body></html>
 
 
 </body>
