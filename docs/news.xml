@@ -12,7 +12,16 @@
       <link>https://rgovys.github.io</link>
     </image>
     <generator>Distill</generator>
-    <lastBuildDate>Tue, 12 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>RGovys Meetup Jan 27 2022</title>
+      <dc:creator>Eli Holmes, NOAA</dc:creator>
+      <link>https://rgovys.github.io/news/2022-01-27-RGovys-Meetup</link>
+      <description>RGovys Meetup!</description>
+      <category>meeting</category>
+      <guid>https://rgovys.github.io/news/2022-01-27-RGovys-Meetup</guid>
+      <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>NMFS R Users Meeting</title>
       <dc:creator>Emily Markowitz</dc:creator>
@@ -42,15 +51,6 @@
       <category>inter-agency r-users</category>
       <category>meeting</category>
       <guid>https://rgovys.github.io/news/2021-07-21</guid>
-      <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>RGovys Meetup Jan 27 2022</title>
-      <dc:creator>Your name</dc:creator>
-      <link>https://rgovys.github.io/news/2022-01-27-RGovys-Meetup</link>
-      <description>RGovys Meetup!</description>
-      <category>meeting</category>
-      <guid>https://rgovys.github.io/news/2022-01-27-RGovys-Meetup</guid>
       <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
     </item>
     <item>

@@ -3,8 +3,8 @@ title: "RGovys Meetup Jan 27 2022"
 description: |
   RGovys Meetup!
 author:
-  - name: Your name
-date: 07-21-2021
+  - name: Eli Holmes, NOAA
+date: 01-27-2022
 output:
   distill::distill_article:
     self_contained: false

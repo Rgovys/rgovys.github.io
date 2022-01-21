@@ -1,5 +1,24 @@
 [
   {
+    "path": "news/2022-01-27-RGovys-Meetup/",
+    "title": "RGovys Meetup Jan 27 2022",
+    "description": "RGovys Meetup!",
+    "author": [
+      {
+        "name": "Eli Holmes, NOAA",
+        "url": {}
+      }
+    ],
+    "date": "2022-01-27",
+    "categories": [
+      "meeting"
+    ],
+    "contents": "\nAgenda\nOur first R Govys meetup event is Jan 27, 2022 at 3pm EST.\nPlease register at https://amstat.zoom.us/meeting/register/tZckce-vrzwiGtV6LlbjnrflFIAWX789OhLP or through Meetup at https://www.meetup.com/rgovys/\n\n\n\n",
+    "preview": {},
+    "last_modified": "2022-01-21T11:59:57-08:00",
+    "input_file": {}
+  },
+  {
     "path": "news/2021-10-12-nmfs-r-users/",
     "title": "NMFS R Users Meeting",
     "description": "Inaugural meeting of the NMFS R Users Group",
@@ -59,25 +78,6 @@
     "preview": {},
     "last_modified": "2021-09-16T11:29:00-07:00",
     "input_file": {}
-  },
-  {
-    "path": "news/2022-01-27-RGovys-Meetup/",
-    "title": "RGovys Meetup Jan 27 2022",
-    "description": "RGovys Meetup!",
-    "author": [
-      {
-        "name": "Your name",
-        "url": {}
-      }
-    ],
-    "date": "2021-07-21",
-    "categories": [
-      "meeting"
-    ],
-    "contents": "\nAgenda\nOur first R Govys meetup event is Jan 27, 2022 at 3pm EST.\nPlease register at https://amstat.zoom.us/meeting/register/tZckce-vrzwiGtV6LlbjnrflFIAWX789OhLP or through Meetup at https://www.meetup.com/rgovys/\n\n\n\n",
-    "preview": {},
-    "last_modified": "2022-01-21T11:50:29-08:00",
-    "input_file": "event.knit.md"
   },
   {
     "path": "news/03-24-2021-nasa-openscapes-announcement/",
