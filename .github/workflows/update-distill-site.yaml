@@ -1,0 +1,28 @@
+on:
+  push:
+name: update-distill-site
+
+jobs:
+  update-distill-site:
+    runs-on: macOS-latest
+    env:
+      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+      - uses: actions/checkout@v2
+      - uses: r-lib/actions/setup-r@v1
+      - uses: r-lib/actions/setup-pandoc@v1
+
+      - name: Install packages
+        run: Rscript -e 'install.packages(c("rmarkdown", "distill", "postcards", "knitr"))'
+
+      - name: Build site
+        run: Rscript -e 'rmarkdown::render_site(encoding = 'UTF-8')'
+
+      - name: Set up Git
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+      - name: Commit all changes
+        run: |
+          git add -A && git commit -m 'Build site' || echo "No changes to commit"
+          git push origin || echo "No changes to commit"
