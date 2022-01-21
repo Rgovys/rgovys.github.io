@@ -23,6 +23,15 @@
       <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>useR! 2022</title>
+      <dc:creator>Eli Holmes, NOAA</dc:creator>
+      <link>https://rgovys.github.io/news/2022-02-15-UseR-2022</link>
+      <description>Update on useR! 2022 meeting. Abstracts due Mar 1</description>
+      <category>conference</category>
+      <guid>https://rgovys.github.io/news/2022-02-15-UseR-2022</guid>
+      <pubDate>Fri, 21 Jan 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>NMFS R Users Meeting</title>
       <dc:creator>Emily Markowitz</dc:creator>
       <link>https://rgovys.github.io/news/2021-10-12-nmfs-r-users</link>

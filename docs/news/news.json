@@ -19,6 +19,25 @@
     "input_file": {}
   },
   {
+    "path": "news/2022-02-15-UseR-2022/",
+    "title": "useR! 2022",
+    "description": "Update on useR! 2022 meeting. Abstracts due Mar 1",
+    "author": [
+      {
+        "name": "Eli Holmes, NOAA",
+        "url": {}
+      }
+    ],
+    "date": "2022-01-21",
+    "categories": [
+      "conference"
+    ],
+    "contents": "\nInfo\nHello, all, from the 2022 organizing committee.\nIn light of mid-pandemic restrictions and concerns, we are converting the format of useR! 2022 to an all-virtual conference. Registration will open on March 1, at the conference website.\nWe continue to welcome proposals for tutorials, talks, panels, and poster/elevator pitch presentations. Submissions must be in English but we encourage plans to teach in Spanish or French. See https://user2022.r-project.org/participate/call-for-tutorials/ for tutorials and https://user2022.r-project.org/participate/call-for-abstracts/ for abstracts.\nThe new due dates for submissions are February 15 for tutorials and March 1 for abstracts/talks. We’re very much looking forward to considering your ideas (especially if you can get them to us sooner than later!).\nWe’ll be sharing news soon about more keynotes and fresh opportunities, so stay tuned!\nuseR! 2022 Organizing Team https://user2022.r-project.org/\n\n\n\n",
+    "preview": {},
+    "last_modified": "2022-01-21T12:14:52-08:00",
+    "input_file": "event.knit.md"
+  },
+  {
     "path": "news/2021-10-12-nmfs-r-users/",
     "title": "NMFS R Users Meeting",
     "description": "Inaugural meeting of the NMFS R Users Group",

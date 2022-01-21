@@ -1,0 +1,28 @@
+---
+title: "useR! 2022"
+description: |
+  Update on useR! 2022 meeting. Abstracts due Mar 1
+author:
+  - name: Eli Holmes, NOAA
+date: 
+output:
+  distill::distill_article:
+    self_contained: false
+categories:
+  - conference
+---
+
+## Info
+
+Hello, all, from the 2022 organizing committee.
+
+In light of mid-pandemic restrictions and concerns, we are converting the format of useR! 2022 to an all-virtual conference. Registration will open on March 1, at the conference website.
+
+We continue to welcome proposals for tutorials, talks, panels, and poster/elevator pitch presentations. Submissions must be in English but we encourage plans to teach in Spanish or French. See https://user2022.r-project.org/participate/call-for-tutorials/ for tutorials and https://user2022.r-project.org/participate/call-for-abstracts/ for abstracts.
+
+The new due dates for submissions are February 15 for tutorials and March 1 for abstracts/talks. We're very much looking forward to considering your ideas (especially if you can get them to us sooner than later!).
+
+We'll be sharing news soon about more keynotes and fresh opportunities, so stay tuned!
+
+useR! 2022 Organizing Team
+https://user2022.r-project.org/
