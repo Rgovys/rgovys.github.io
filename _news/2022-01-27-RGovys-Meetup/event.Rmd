@@ -1,0 +1,19 @@
+---
+title: "RGovys Meetup Jan 27 2022"
+description: |
+  RGovys Meetup!
+author:
+  - name: Your name
+date: 07-21-2021
+output:
+  distill::distill_article:
+    self_contained: false
+categories:
+  - meeting
+---
+
+## Agenda
+
+Our first R Govys meetup event is Jan 27, 2022 at 3pm EST. 
+
+Please register at https://amstat.zoom.us/meeting/register/tZckce-vrzwiGtV6LlbjnrflFIAWX789OhLP  or through Meetup at https://www.meetup.com/rgovys/

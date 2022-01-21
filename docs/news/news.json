@@ -61,6 +61,25 @@
     "input_file": {}
   },
   {
+    "path": "news/2022-01-27-RGovys-Meetup/",
+    "title": "RGovys Meetup Jan 27 2022",
+    "description": "RGovys Meetup!",
+    "author": [
+      {
+        "name": "Your name",
+        "url": {}
+      }
+    ],
+    "date": "2021-07-21",
+    "categories": [
+      "meeting"
+    ],
+    "contents": "\nAgenda\nOur first R Govys meetup event is Jan 27, 2022 at 3pm EST.\nPlease register at https://amstat.zoom.us/meeting/register/tZckce-vrzwiGtV6LlbjnrflFIAWX789OhLP or through Meetup at https://www.meetup.com/rgovys/\n\n\n\n",
+    "preview": {},
+    "last_modified": "2022-01-21T11:50:29-08:00",
+    "input_file": "event.knit.md"
+  },
+  {
     "path": "news/03-24-2021-nasa-openscapes-announcement/",
     "title": "NASA Announces 3-year Openscapes cohorts",
     "description": "Mar 2021, NASA announced a 3-year Openscapes program to support training in in the tools for modern data science using open science workflows. The training program has a heavy emphasis on R and Python, which are mainstays of open science computing and statistical analysis.",
