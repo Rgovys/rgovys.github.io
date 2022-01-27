@@ -1621,10 +1621,7 @@ function init_distill() {
 
     // hoverable references
     $('span.citation[data-cites]').each(function() {
-      var refs = $(this).attr('data-cites').split(" ");
-      var refHtml = refs.map(function(ref) {
-        return "<p>" + $('#ref-' + ref).html() + "</p>";
-      }).join("\n");
+      var refHtml = $('#ref-' + $(this).attr('data-cites')).html();
       window.tippy(this, {
         allowHTML: true,
         content: refHtml,
@@ -2324,13 +2321,11 @@ d-appendix d-footnote-list a.footnote-backlink {
 }</pre>
 </div>
 <!--/radix_placeholder_appendices-->
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
-<!--radix_placeholder_navigation_after_body--><html><body>
+<!--radix_placeholder_navigation_after_body-->
 <div class="distill-site-nav distill-site-footer">
-<p>This website was made with <u><a href="https://rstudio.github.io/distill/">distill by RStudio</a></u>, and with inspiration from the <u><a href="https://nasa-openscaptes.github.io/">NASA Openscapes website</a></u>.</p>
+  <p>This website was made with <u><a href="https://rstudio.github.io/distill/">distill by RStudio</a></u>, and with inspiration from the <u><a href="https://nasa-openscaptes.github.io/">NASA Openscapes website</a></u>.</p>
 </div>
 <!--/radix_placeholder_navigation_after_body-->
-</body></html>
 
 
 </body>

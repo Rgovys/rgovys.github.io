@@ -2,74 +2,78 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" version="1.0">
   <url>
     <loc>https://rgovys.github.io/about.html</loc>
-    <lastmod>2022-01-21T20:28:35+00:00</lastmod>
+    <lastmod>2021-09-13T12:48:44-07:00</lastmod>
   </url>
   <url>
     <loc>https://rgovys.github.io/CoC.html</loc>
-    <lastmod>2022-01-21T20:28:35+00:00</lastmod>
+    <lastmod>2021-09-15T09:48:58-07:00</lastmod>
   </url>
   <url>
     <loc>https://rgovys.github.io/events.html</loc>
-    <lastmod>2022-01-21T20:28:35+00:00</lastmod>
+    <lastmod>2021-09-23T15:13:25-07:00</lastmod>
   </url>
   <url>
     <loc>https://rgovys.github.io/faq.html</loc>
-    <lastmod>2022-01-21T20:28:35+00:00</lastmod>
+    <lastmod>2021-09-23T14:48:55-07:00</lastmod>
   </url>
   <url>
     <loc>https://rgovys.github.io/</loc>
-    <lastmod>2022-01-21T20:28:35+00:00</lastmod>
+    <lastmod>2021-09-23T14:11:32-07:00</lastmod>
   </url>
   <url>
     <loc>https://rgovys.github.io/members.html</loc>
-    <lastmod>2022-01-21T20:28:35+00:00</lastmod>
+    <lastmod>2021-09-23T14:42:04-07:00</lastmod>
   </url>
   <url>
     <loc>https://rgovys.github.io/news.html</loc>
-    <lastmod>2022-01-21T20:28:35+00:00</lastmod>
+    <lastmod>2021-09-15T12:43:47-07:00</lastmod>
   </url>
   <url>
     <loc>https://rgovys.github.io/posts.html</loc>
-    <lastmod>2022-01-21T20:28:35+00:00</lastmod>
+    <lastmod>2021-09-15T12:44:19-07:00</lastmod>
   </url>
   <url>
     <loc>https://rgovys.github.io/resources.html</loc>
-    <lastmod>2022-01-21T20:28:35+00:00</lastmod>
+    <lastmod>2021-09-15T11:47:41-07:00</lastmod>
   </url>
   <url>
     <loc>https://rgovys.github.io/posts/2021-09-28-vdiffr/</loc>
-    <lastmod>2022-01-21T20:28:35+00:00</lastmod>
+    <lastmod>2021-09-28T22:16:57-07:00</lastmod>
   </url>
   <url>
     <loc>https://rgovys.github.io/posts/2021-09-15-welcome/</loc>
-    <lastmod>2022-01-21T20:28:35+00:00</lastmod>
+    <lastmod>2021-09-15T13:06:37-07:00</lastmod>
   </url>
   <url>
     <loc>https://rgovys.github.io/news/2022-01-27-RGovys-Meetup/</loc>
-    <lastmod>2022-01-21T20:28:35+00:00</lastmod>
+    <lastmod>2022-01-21T11:59:57-08:00</lastmod>
+  </url>
+  <url>
+    <loc>https://rgovys.github.io/news/2022-02-03-GASP/</loc>
+    <lastmod>2022-01-27T12:47:43-08:00</lastmod>
   </url>
   <url>
     <loc>https://rgovys.github.io/news/2022-02-15-UseR-2022/</loc>
-    <lastmod>2022-01-21T20:28:35+00:00</lastmod>
+    <lastmod>2022-01-21T12:14:52-08:00</lastmod>
   </url>
   <url>
     <loc>https://rgovys.github.io/news/2021-10-12-nmfs-r-users/</loc>
-    <lastmod>2022-01-21T20:28:35+00:00</lastmod>
+    <lastmod>2022-01-21T12:08:05-08:00</lastmod>
   </url>
   <url>
     <loc>https://rgovys.github.io/news/2021-10-14-nasa-open-data/</loc>
-    <lastmod>2022-01-21T20:28:35+00:00</lastmod>
+    <lastmod>2021-10-01T15:46:27-07:00</lastmod>
   </url>
   <url>
     <loc>https://rgovys.github.io/news/2021-07-21/</loc>
-    <lastmod>2022-01-21T20:28:35+00:00</lastmod>
+    <lastmod>2021-09-16T11:29:00-07:00</lastmod>
   </url>
   <url>
     <loc>https://rgovys.github.io/news/03-24-2021-nasa-openscapes-announcement/</loc>
-    <lastmod>2022-01-21T20:28:35+00:00</lastmod>
+    <lastmod>2021-09-16T11:24:48-07:00</lastmod>
   </url>
   <url>
     <loc>https://rgovys.github.io/news/2020-09-14/</loc>
-    <lastmod>2022-01-21T20:28:35+00:00</lastmod>
+    <lastmod>2021-09-16T11:28:38-07:00</lastmod>
   </url>
 </urlset>

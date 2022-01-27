@@ -1,0 +1,39 @@
+---
+title: "GASP 2022"
+description: |
+  Government Advances in Statistical Programming Virtual Meeting 2022
+author:
+  - name: Eli Holmes, NOAA
+date: 2022-01-27
+output:
+  distill::distill_article:
+    self_contained: false
+categories:
+  - conference
+---
+
+## Info
+
+Government Advances in Statistical Programming conference is Feb 2-3. Here is the schedule and link to register (free). https://nces.ed.gov/fcsm/pdf/Program_Virtual_Workshop.pdf
+
+## Schedule
+
+### Feb 2, 2022 Day 1
+
+* Paper session 1: Machine Learning and Natural Language Processing
+* Lightning Talks 1: Machine Learning and Automation
+* Lightning Talks 2: Natural Language Processing
+* Paper session 2: Advances in Statistical Modeling
+
+### Feb 3, 2022 Day 2
+
+* Workshop: Git Started with Version Control with Cecile Murray
+* Lightning Talks 3: Development to Production 
+* Panel: Data Science’s Real “Hidden Layer”: IT Environments
+* Lightning Talks 4: Dashboards and Data Visualization
+* Paper session 3: Data Systems, Usability, Reporting
+
+---
+
+*Presented by the Computational Statistics for the Production of Official Statistics (CSPOS) Interest
+Group of the Federal Committee on Statistical Methods (FCSM)*
