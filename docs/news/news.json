@@ -20,8 +20,8 @@
   },
   {
     "path": "news/2022-02-03-GASP/",
-    "title": "GASP 2022",
-    "description": "Government Advances in Statistical Programming Virtual Meeting 2022",
+    "title": "GASP 2022 Feb 2-3",
+    "description": "Government Advances in Statistical Programming Virtual Meeting 2022. Feb 2-3, 2022. Virtual.",
     "author": [
       {
         "name": "Eli Holmes, NOAA",
@@ -34,8 +34,8 @@
     ],
     "contents": "\nInfo\nGovernment Advances in Statistical Programming conference is Feb 2-3. Here is the schedule and link to register (free). https://nces.ed.gov/fcsm/pdf/Program_Virtual_Workshop.pdf\nSchedule\nFeb 2, 2022 Day 1\nPaper session 1: Machine Learning and Natural Language Processing\nLightning Talks 1: Machine Learning and Automation\nLightning Talks 2: Natural Language Processing\nPaper session 2: Advances in Statistical Modeling\nFeb 3, 2022 Day 2\nWorkshop: Git Started with Version Control with Cecile Murray\nLightning Talks 3: Development to Production\nPanel: Data Science’s Real “Hidden Layer”: IT Environments\nLightning Talks 4: Dashboards and Data Visualization\nPaper session 3: Data Systems, Usability, Reporting\nPresented by the Computational Statistics for the Production of Official Statistics (CSPOS) Interest Group of the Federal Committee on Statistical Methods (FCSM)\n\n\n\n",
     "preview": {},
-    "last_modified": "2022-01-27T12:47:43-08:00",
-    "input_file": "event.knit.md"
+    "last_modified": "2022-01-27T13:08:34-08:00",
+    "input_file": {}
   },
   {
     "path": "news/2022-02-15-UseR-2022/",
