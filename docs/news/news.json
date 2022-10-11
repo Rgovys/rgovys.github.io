@@ -1,5 +1,25 @@
 [
   {
+    "path": "news/2022-10-11/",
+    "title": "IA R UG Meeting Oct 11, 2022",
+    "description": "Meeting Notes from Oct 11, 2022",
+    "author": [
+      {
+        "name": "Wendy Martinez",
+        "url": {}
+      }
+    ],
+    "date": "2022-10-11",
+    "categories": [
+      "inter-agency r-users",
+      "meeting"
+    ],
+    "contents": "\nlink\nto Google doc\nUpcoming events and\nannouncements:\nR Govys Meetup: October 20 at 1500. https://www.meetup.com/rgovys/events/288502391/\nDonna: Abstract submission for the Symposium on Data Science and\nStatistics (SDSS) is open - https://ww2.amstat.org/meetings/sdss/2023/submitanabstract.cfm\nPeter Meyer: U of Virginia invites projects for its data science\nmasters program. I did it last year, advising (“sponsoring”) such a\nproject and will “pitch” similar projects for this year. The students\nused R’s ranger package. (Details at bottom of these notes.)\nR Conference for Gov and Public Sector in December https://rstats.ai/gov/#about\nAgency Updates\nNOAA Fisheries\n(Eli Holmes and Emily Markowitz)\nEli Holmes and Em Markowitz taught a class on using GitHub for\ncollaborating in a team on a project. All material online. https://rverse-tutorials.github.io/WSDS-StLouis/\nNOAA Fisheries Openscapes fall cohorts started. 160 staff across all\nour science centers https://nmfs-openscapes.github.io/\nquarto_titlepages a Quarto extension for creating custom title pages\nand covers for Quarto output https://nmfs-opensci.github.io/quarto_titlepages/\nBLS (Brandon Kopp)\nReporting for BLS, Brandon Kopp says they have open slots for data\nscientists. It took a while to work it out.\nData science training program. Using https://www.dataquest.io/ for training Data Analyst in\nR: https://www.dataquest.io/path/data-analyst-r/ AND Data\nScientist in Python: https://www.dataquest.io/path/data-scientist/\nCBO (Kevin Perese):\nHad a training session on accessing databases with R or SAS.\nPython learning group. Going through Harvard CS 50 class\ntogether\n“Transparency” sessions: covering naming practices, shared\nvocabulary, version control\nFDA (Tomas Drgon)\nScientific computing days were last month, R and Python were\ncovered\nCensus\nBureau (Yves, Wendy Martinez, Bruce Webster, Chuck Coleman)\nTransitioning to open source when possible. “True North” initiative.\nWindow of transition is 3.5 years https://www.census.gov/newsroom/blogs/research-matters/2022/10/technology-transformation.html\nBruce: attended two presentations for True North, one for CenSas and\none a week later for R Users Group (Jessica Klein’s group) - the later\npresentation was softer on the timeline, they know they need to\ncoordinate with division chiefs on the timeline\nOther national statistical agencies are making the same transition\nto open source\n2023 Data Science Training Program launched 10/3, applications until\n10/21 - two tracks; Data Science Generalist and Machine Learning\nspecialty\nJoint Program of Survey Methodology (Census has been a big supporter\nin the past, but maybe less so in the future(?)) has also recently added\na Data Science track as well - program between Maryland and\nMichigan.\nStudent data\nscience projects with universities\nThe Univ of Virginia School of Data Science invites proposals of data\nscience projects for their masters students to take on for their\n“capstone” project, analogous to a masters thesis. I “pitched” such\nprojects to students last year and my students did a project related to\nmy research using R’s ranger package. It was rewarding. The code should\nbe useful in the future for research on this topic (mapping between\nclassifications of industry and occupation).\nI will again pitch such a project, this Thursday evening. If a\nstudent accepts, I become a “sponsor,” and my agency too. My project had\nonly public data so we didn’t need an MOU.\nIf you are interested in having students consider your topic, there\nmight be time to get something together. The key administrator there is\nClaudia Scholz, cws3v@virginia.edu.\nProject often go from Oct to April and the students graduate in May.\nThey are having another call in Feb ’23 for projects. I don’t know the\ntiming for those cases. I can help connect people to UVa if you are\ninterested. – meyer.peter@bls.gov\nBrandon Kopp reports having similar arrangements with Georgia Tech\nstudents.\nThese are NOT internships; that distinction is administratively\nimportant. These students do not follow our instructions, we just\nadvise. They don’t have agency phone numbers or email addresses or\nworkspace. They are really students. A project could involve\nconfidential agency data or source code, but then an MOU (memorandum of\nunderstanding) or contract will be required. UVa has also a contract\nform of its own for situations like that.\n\n\n\n",
+    "preview": {},
+    "last_modified": "2022-10-11T14:46:39-04:00",
+    "input_file": "2022-10-11.knit.md"
+  },
+  {
     "path": "news/2022-01-27-RGovys-Meetup/",
     "title": "RGovys Meetup Jan 27 2022",
     "description": "RGovys Meetup!",
