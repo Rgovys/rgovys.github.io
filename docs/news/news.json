@@ -1,5 +1,24 @@
 [
   {
+    "path": "news/2023-02-16-rgovys/",
+    "title": "RGovys Meetup Feb 16 2023",
+    "description": "Text-mining with the tm package!",
+    "author": [
+      {
+        "name": "Eli Holmes, NOAA",
+        "url": {}
+      }
+    ],
+    "date": "2023-02-16",
+    "categories": [
+      "meeting"
+    ],
+    "contents": "\nAgenda\nFebruary’s Meet-up will be a presentation by Tomas Drgon who will introduce the basics of text mining in R (package TM): Corpus creation, text prep, Document Term Matrices; and provide a live coding example of analysis of Document Term Matrices employing Principal Component Analysis and Hierarchical Clustering.\nRegister using this link - https://amstat.zoom.us/meeting/register/tZMvd-mqrjMqHdXhI64DXu-AZgrXQork0t0l\nAfter registering, you will receive a confirmation email containing information about joining the meeting.\nSpeaker Tomas Drgon\nTomas has a MSc in Food Biotechnology from Slovak Institute of Technology and PhD in Biochemistry (1994). He did postdocs at the NIH and University of Maryland, then (2001) joined NIH as staff researcher (molecular biology and psychiatric genetics). Later (2010) he worked at the NIH Center for Science Review as a Scientific Review Officer for biostatistics, system dynamics modeling, and and system sciences. Since 2014 he has been a program analyst at the FDA Office Of Regulatory Affairs working on mathematical and statistical models in regulatory science.\n\n\n\n",
+    "preview": {},
+    "last_modified": "2023-01-19T15:30:57-08:00",
+    "input_file": "event.knit.md"
+  },
+  {
     "path": "news/2022-10-11/",
     "title": "IA R UG Meeting Oct 11, 2022",
     "description": "Meeting Notes from Oct 11, 2022",

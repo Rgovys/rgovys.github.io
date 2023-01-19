@@ -12,7 +12,16 @@
       <link>https://rgovys.github.io</link>
     </image>
     <generator>Distill</generator>
-    <lastBuildDate>Tue, 11 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>RGovys Meetup Feb 16 2023</title>
+      <dc:creator>Eli Holmes, NOAA</dc:creator>
+      <link>https://rgovys.github.io/news/2023-02-16-rgovys</link>
+      <description>Text-mining with the tm package!</description>
+      <category>meeting</category>
+      <guid>https://rgovys.github.io/news/2023-02-16-rgovys</guid>
+      <pubDate>Thu, 16 Feb 2023 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>IA R UG Meeting Oct 11, 2022</title>
       <dc:creator>Wendy Martinez</dc:creator>
