@@ -1,5 +1,5 @@
 ---
-title: "Members"
+title: "Contact"
 description: |
   An R consortium community to support R users in government
 output:
@@ -13,25 +13,14 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-### R-Govys Groups and R Users Groups
-
-Inter-agency R Users Group - a cross-agency R Users group in the US federal agencies to promote training and event information dissemination across agencies.
-
-BLS R Users Group
-
-NMFS R Users Groups - Facilitating R trainings and support for R users in NOAA Fisheries. The following centers have active R User groups.
-* SWFSC R User Group - Southwest Fisheries Science Center
-* AFSC R User Group - Alaska Fisheries Science Center
-
 ### R-Govys Contacts
 
-**Wendy Martinez**
+**Wendy Martinez** is a Senior Mathematical Statistician for Data Science at the U.S. Census Bureau. [Webpage](https://www.linkedin.com/in/martinez-wendy-483b0112/)
 
 **E. Eli Holmes** is a research scientist with NOAA Fisheries. She is an applied mathematician who works on algorithms for multivariate state-space analysis of time series data. She is active in R and open-science training in NOAA Fisheries. [Webpage](https://eeholmes.github.io) [GitHub](https://github.com/eeholmes)
 
-**Donna LaLonde**
+**Donna LaLonde** is Director of Strategic Initiatives and Outreach at the American Statistical Association [Webpage](https://www.linkedin.com/in/donna-lalonde-she-her-a6a41124/)
 
-**Add more**
 
 
 
