@@ -1,0 +1,92 @@
+---
+title: "IA R UG Meeting Dec 12, 2022"
+description: |
+  Meeting Notes from Dec 12, 2022
+author:
+  - name: Wendy Martinez
+date: 12-12-2022
+output:
+  distill::distill_article:
+    self_contained: false
+categories:
+  - inter-agency r-users
+  - meeting
+---
+
+## Upcoming events and announcements:
+
+R Govys Meetup: Dec 17 at 3pm EST. Topic is Informal Social!
+https://www.meetup.com/rgovys/events/290110433/
+
+Donna: Abstract submission for the Symposium on Data Science and Statistics (SDSS) is open (Due December 15 for talks and March 10, 2023 for lightning talks) May 23rd- https://ww2.amstat.org/meetings/sdss/2023/submitanabstract.cfm
+
+EcoForecast Statistical Series in R
+https://ecoforecast.org/workshops/statistical-methods-seminar-series/
+Jan 9th is on Zero Inflated GLM and GLMM
+
+ESMARConf2023 (27th to 31st March) -evidence synthesis and meta-analysis in R https://esmarconf.org/ 
+ESMARConf is a FREE, online annual conference series dedicated to evidence synthesis and meta-analysis in R. Our aim is to raise awareness of the utility of Open Source tools in R for conducting all aspects of evidence syntheses (systematic reviews/maps, meta-analysis, rapid reviews, scoping reviews, etc.), to build capacity for conducting rigorous evidence syntheses, to support the development of novel tools and frameworks for robust evidence synthesis, and to support a community of practice working in evidence synthesis tool development. ESMARConf began in 2021 and is coordinated by the Evidence Synthesis Hackathon.
+
+FCSM/GASP! (Govt Advances in Statistical Programming) workshop is planned for May or June. We expect to have a day in person and a day online. We’ll update our web pages here:  https://www.fcsm.gov/groups/cspos-gasp/   (contact: meyer.peter@bls.gov)
+
+ROpenSci Community co-working
+https://ropensci.org/events/coworking-2022-12/
+All the details on rOpenSci packages from what are accepted to the software review process: https://ropensci.org/packages/
+Jeff Hollister is an editor for package review. Contact him for questions: hollister.jeff@epa.gov is the best.
+
+NormConf is a free online conference happening this Thursday (December 15th). I've never been to one but it has a great lineup: https://normconf.com/ 
+
+## Agency Updates
+
+NOAA Fisheries (Eli Holmes)
+Working with our national IT to get our ducks in a row for using GitHub Enterprise Cloud. Plan is  for expanded use as a development platform for our scientific data science staff and teams.
+NOAA Fisheries Openscape​​s fall cohorts ended on Dec 2. Big focus this fall on “automation”
+https://nmfs-openscapes.github.io/
+160 staff across all our science centers  https://nmfs-openscapes.github.io/. 
+Blog post from one of the participants: https://www.fisheries.noaa.gov/science-blog/sound-bytes-championing-open-science
+The template repos we created for participants were super successful: https://github.com/orgs/nmfs-opensci/repositories?q=&type=template&language=&sort=
+Next up: presentations to our local and national leadership on results from the fall training.
+Next our Stock Assessment National group organized an 11-week training with Posit Connect starting Dec 13.
+Our NMFS R UG ran a session on GitHub Codespaces for spinning up development containers (R, Python, C++). 
+We submitted a 3-year proposal for agency level data-science (R/Python) training with Openscapes team training + “BLS-style” cohorts that go through a Coursera/Udemy/etc data-science course together with mentor/mentors
+
+BLS (Brandon Kopp, Peter Meyer)
+Data Science Training Program Round 3 will start in January or February
+Our internal Posit Teams instance will launch in the same time period
+Still planning on code carpentry style internal seminars on things like building environments, documentation, unit testing, exception handling, etc. These will start in 2023 along with the launch of Posit Teams.
+
+FDA (Steve Condrey)
+Nothing new
+
+Census Bureau (Jessica Klein, Chuck Coleman)
+Our Integrated Research Environment (basically a Research Data Center but in homes) is scheduled to get upgraded in December, this will include a new version of R and access to some tidy packages. (Bruce Webster)
+
+Agency for Healthcare Research and Quality (AHRQ) (Emily Mitchell): 
+No updates
+
+Centers for Medicare and Medicaid Services (CMS)/Centers for Medicare and Medicaid Innovation (CMMI) (Toyin)
+There are no updates this month.
+
+EPA (Jeff Hollister)
+Jeff Hollister covering for EPA
+Still rolling with GitHub Enterprise (Agency wide), RStudio Connect pilot still ongoing.
+Planning for next agency wide R Meeting, sometime in 2023.
+Openscapes Cohorts to start in February within one Center. Still accepting applications from interested teams.
+
+EIA (Stephen York):
+Proceeding with R setting up R Studio Server. First pilot project will use the R server in conjunction with our internal Tableau Server (via the RServe package). If pilot goes well and there is additional demand, will explore larger, enterprise solutions, such as Posit Connect, Posit Package Manager, etc.
+
+## AI discussion
+
+ChatGPT: https://chat.openai.com/
+
+GitHub copilot: ​​https://github.com/features/copilot
+
+Translating code between languages: https://beta.openai.com/examples/default-translate-code
+
+https://huggingface.co/
+Trained AI models ready to use
+
+Google Summer of Code
+https://google.github.io/gsocguides/mentor/
+NOAA’s Integrated Ocean Observing System has participated for the last 2 years https://ioos.noaa.gov/news/summer-of-code-with-u-s-ioos/

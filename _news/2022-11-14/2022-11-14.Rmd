@@ -1,0 +1,65 @@
+---
+title: "IA R UG Meeting Nov 14, 2022"
+description: |
+  Meeting Notes from Nov 14, 2022
+author:
+  - name: Eli Holmes
+date: 11-14-2022
+output:
+  distill::distill_article:
+    self_contained: false
+categories:
+  - inter-agency r-users
+  - meeting
+---
+
+## Upcoming events and announcements:
+
+R Govys Meetup: Nov 17 at 3pm EST. Topic is Quarto Reports https://www.meetup.com/rgovys/events/289237170/
+
+Donna: Abstract submission for the Symposium on Data Science and Statistics (SDSS) is open (Due December 15 for talks and March 10, 2023 for lightning talks) May 23rd- https://ww2.amstat.org/meetings/sdss/2023/submitanabstract.cfm
+
+R Conference for Gov and Public Sector in December 1-2  https://rstats.ai/gov/#about
+
+ESMARConf2023 (27th to 31st March) -evidence synthesis and meta-analysis in R https://esmarconf.org/ 
+
+## Agency Updates
+
+NOAA Fisheries (Eli Holmes):
+NOAA Fisheries Openscape's fall cohorts started. 160 staff across all our science centers  https://nmfs-openscapes.github.io/
+There is an 11-week training with RStudio Posit Connect upcoming.
+We are exploring GitHub Codespaces for spinning up development containers (R, Python, C++). Note GitHub Codespaces now available with GitHub free.
+
+BLS (Brandon Kopp):
+Just finished 2nd iteration of data science training program. 18 staff completed the majority of training + capstone projects
+RStudio/Posit Connect. In process of procuring and will have on-premise instance.
+
+CBO (Kevin Perese):
+Currently in the middle of the 7th cohort of CBO’s “Good Practices for Data Science and Transparency” training sessions.
+
+FDA (Steve C.):
+Introduction to R Programming on 11/2; Introduction to Text Mining in R and Python on 11/3. Both events were well-attended.
+Joint project with AstraZeneca involving NLP and text mining of human drug adverse event reporting; R will be involved. More details to come.
+
+Census Bureau (Jessica Klein, Chuck Coleman):
+Recently completed yearly presentations for 2022, planning for 2023.
+Ended the year with an intro to R/RStudio workshop with 70+ attendees.
+Several conversations happening agency wide relating to training and other open-source related resources to help with skill building
+
+Agency for Healthcare Research and Quality (AHRQ) (Emily Mitchell): 
+Any experience with ‘open office hours’? (Census does, ask Jessica about it)
+NOAA Fisheries has been doing open office hours for our staff during our training, but not for the public.
+
+CMS/CMMI (Toyin):
+No announcements
+
+EPA (Ann Vega):
+Just introduced Connect to our Python CoP and a few folks are kicking the tires (R folks have been using Connect for several months). They have been able to successfully stand up Python apps on Streamlit and Dash frameworks using the EPA template.  They’re working to make it easier for other python devs to follow in their footsteps with a code repo.
+We still have a standard push of R/Posit/Rtools for all EPA R users. 
+I could invite EPA IT folks to participate in a panel about how we’ve handled installation of R/Posit/RTools and Connect.
+
+EIA (Steve York):
+
+* Transitioning to Git/GitLab for code backups; R and Python code.
+* 10 students in R training via Code Academy; R + Tableau training
+* Working on project to use R in conjunction with Tableau. Currently exploring using an internal R server to do it, also taking with Rstudio/Posit to explore their enterprise solutions. 
