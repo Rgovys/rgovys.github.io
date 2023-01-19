@@ -13,18 +13,14 @@ navbar:
   right:
     - text: "Home"
       href: index.html
-    - text: "Members"
-      href: members.html
     - text: "Events"
       href: events.html
     - text: "News"
       href: news.html      
-    - text: "Blog"
-      href: posts.html
     - text: "Resources"
       href: resources.html      
-    - text: "FAQ"
-      href: faq.html      
+    - text: "Contact"
+      href: members.html
     - icon: fab fa-github
       href: https://github.com/Rgovys
 theme: theme.css
